@@ -1,271 +1,684 @@
-2026-04-07 19:38:55,109 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-1.html
-2026-04-07 19:38:57,904 - INFO - Trying Wikipedia for 'Shel Silverstein'...
-2026-04-07 19:38:58,620 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:38:59,953 - INFO - Author found for 'A Light in the Attic': Shel Silverstein | country: None
-2026-04-07 19:39:01,207 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
-2026-04-07 19:39:09,034 - INFO - Author found for 'Tipping the Velvet': Sarah Waters | country: United Kingdom
-2026-04-07 19:39:10,213 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
-2026-04-07 19:39:15,019 - INFO - Author found for 'Soumission': Michel Houellebecq | country: France
-2026-04-07 19:39:16,259 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/soumission_998/index.html
-2026-04-07 19:39:19,668 - INFO - Trying Wikipedia for 'Gillian Flynn'...
-2026-04-07 19:39:20,530 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:39:21,782 - INFO - Author found for 'Sharp Objects': Gillian Flynn | country: None
-2026-04-07 19:39:22,953 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
-2026-04-07 19:39:26,439 - INFO - Trying Wikipedia for 'Yuval Noah Harari'...
-2026-04-07 19:39:27,288 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:39:28,847 - INFO - Author found for 'Sapiens: A Brief History of Humankind': Yuval Noah Harari | country: None
-2026-04-07 19:39:30,237 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
-2026-04-07 19:39:33,917 - INFO - Trying Wikipedia for 'Brynn Chapman'...
-2026-04-07 19:39:34,781 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:39:36,176 - INFO - Author found for 'The Requiem Red': Brynn Chapman | country: None
-2026-04-07 19:39:40,568 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
-2026-04-07 19:39:44,098 - INFO - Trying Wikipedia for 'Don Raskin'...
-2026-04-07 19:39:45,075 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:39:46,409 - INFO - Author found for 'The Dirty Little Secrets of Getting Your Dream Job': Don Raskin | country: None
-2026-04-07 19:39:47,901 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
-2026-04-07 19:39:51,555 - INFO - Trying Wikipedia for 'Lillie D. White'...
-2026-04-07 19:39:52,342 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:39:53,767 - INFO - Author found for 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull': Lillie D. White | country: None
-2026-04-07 19:39:55,027 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
-2026-04-07 19:39:58,814 - INFO - Trying Wikipedia for 'Daniel James Brown'...
-2026-04-07 19:39:59,660 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:01,102 - INFO - Author found for 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics': Daniel James Brown | country: None
-2026-04-07 19:40:02,377 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
-2026-04-07 19:40:05,969 - INFO - Trying Wikipedia for 'Aracelis Girmay'...
-2026-04-07 19:40:06,819 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:08,311 - INFO - Author found for 'The Black Maria': Aracelis Girmay | country: None
-2026-04-07 19:40:09,598 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
-2026-04-07 19:40:13,124 - INFO - Trying Wikipedia for 'Lydia West'...
-2026-04-07 19:40:13,846 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:15,277 - INFO - Author found for 'Starving Hearts (Triangular Trade Trilogy, #1)': Lydia West | country: None
-2026-04-07 19:40:16,619 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
-2026-04-07 19:40:23,387 - INFO - Author found for 'Shakespeare's Sonnets': William Shakespeare | country: United Kingdom
-2026-04-07 19:40:24,624 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
-2026-04-07 19:40:31,604 - ERROR - Network error fetching author for 'Set Me Free': HTTPSConnectionPool(host='openlibrary.org', port=443): Read timed out. (read timeout=5)
-2026-04-07 19:40:32,892 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/set-me-free_988/index.html
-2026-04-07 19:40:38,741 - INFO - Author found for 'Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)': Bryan Lee O'Malley | country: Canada
-2026-04-07 19:40:40,065 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
-2026-04-07 19:40:43,507 - INFO - Trying Wikipedia for 'Simon Reynolds'...
-2026-04-07 19:40:44,219 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:45,687 - INFO - Author found for 'Rip it Up and Start Again': Simon Reynolds | country: None
-2026-04-07 19:40:47,056 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
-2026-04-07 19:40:50,756 - INFO - Trying Wikipedia for 'Michael Azerrad'...
-2026-04-07 19:40:51,519 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:52,751 - INFO - Author found for 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991': Michael Azerrad | country: None
-2026-04-07 19:40:54,001 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
-2026-04-07 19:40:57,630 - INFO - Trying Wikipedia for 'Tyehimba Jess'...
-2026-04-07 19:40:58,355 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:40:59,626 - INFO - Author found for 'Olio': Tyehimba Jess | country: None
-2026-04-07 19:41:04,654 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/olio_984/index.html
-2026-04-07 19:41:15,303 - INFO - Trying Wikipedia for 'Andrew Barger'...
-2026-04-07 19:41:16,086 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:41:17,503 - INFO - Author found for 'Mesaerion: The Best Science Fiction Stories 1800-1849': Andrew Barger | country: None
-2026-04-07 19:41:18,760 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
-2026-04-07 19:41:22,254 - INFO - Trying Wikipedia for 'Todd Seavey'...
-2026-04-07 19:41:23,106 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:41:24,364 - INFO - Author found for 'Libertarianism for Beginners': Todd Seavey | country: None
-2026-04-07 19:41:25,540 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
-2026-04-07 19:41:29,018 - INFO - Trying Wikipedia for 'S. Bedford'...
-2026-04-07 19:41:29,732 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:41:30,961 - INFO - Author found for 'It's Only the Himalayas': S. Bedford | country: None
-2026-04-07 19:41:32,152 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
-2026-04-07 19:41:34,836 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-2.html
-2026-04-07 19:41:37,601 - INFO - Trying Wikipedia for 'Amanda Jennings'...
-2026-04-07 19:41:38,367 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:41:39,705 - INFO - Author found for 'In Her Wake': Amanda Jennings | country: None
-2026-04-07 19:41:40,935 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/in-her-wake_980/index.html
-2026-04-07 19:41:45,792 - INFO - Author found for 'How Music Works': David Byrne | country: United States
-2026-04-07 19:41:47,104 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/how-music-works_979/index.html
-2026-04-07 19:41:53,074 - INFO - Trying Wikipedia for 'Editors at America's Test Kitchen'...
-2026-04-07 19:41:53,775 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:41:55,030 - INFO - Author found for 'Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More': Editors at America's Test Kitchen | country: None
-2026-04-07 19:41:56,257 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
-2026-04-07 19:41:59,826 - INFO - Trying Wikipedia for 'Karen Kilgariff'...
-2026-04-07 19:42:00,701 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:02,036 - INFO - Author found for 'Chase Me (Paris Nights #2)': Karen Kilgariff | country: None
-2026-04-07 19:42:03,366 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
-2026-04-07 19:42:07,209 - INFO - Trying Wikipedia for 'Bruce Berglund'...
-2026-04-07 19:42:08,066 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:09,620 - INFO - Author found for 'Black Dust': Bruce Berglund | country: None
-2026-04-07 19:42:10,943 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/black-dust_976/index.html
-2026-04-07 19:42:16,126 - INFO - Author found for 'Birdsong: A Story in Pictures': Sebastian Faulks | country: United Kingdom
-2026-04-07 19:42:17,752 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
-2026-04-07 19:42:22,109 - INFO - Trying Wikipedia for 'Wayne Stewart'...
-2026-04-07 19:42:22,815 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:24,116 - INFO - Author found for 'America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana': Wayne Stewart | country: None
-2026-04-07 19:42:25,428 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
-2026-04-07 19:42:29,107 - INFO - Trying Wikipedia for 'Alan Brown'...
-2026-04-07 19:42:29,823 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:32,735 - INFO - Author found for 'Aladdin and His Wonderful Lamp': Alan Brown | country: None
-2026-04-07 19:42:33,934 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
-2026-04-07 19:42:37,422 - INFO - Trying Wikipedia for 'Andrew Dickson'...
-2026-04-07 19:42:38,176 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:39,559 - INFO - Author found for 'Worlds Elsewhere: Journeys Around Shakespeareâ\x80\x99s Globe': Andrew Dickson | country: None
-2026-04-07 19:42:40,865 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
-2026-04-07 19:42:44,278 - INFO - Trying Wikipedia for 'Banksy'...
-2026-04-07 19:42:44,937 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:42:46,225 - INFO - Author found for 'Wall and Piece': Banksy | country: None
-2026-04-07 19:42:47,610 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
-2026-04-07 19:42:52,962 - INFO - Author found for 'The Four Agreements: A Practical Guide to Personal Freedom': Don Miguel Ruiz | country: Mexico
-2026-04-07 19:42:54,198 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
-2026-04-07 19:42:57,801 - INFO - Trying Wikipedia for 'Gary D. Chapman'...
-2026-04-07 19:42:58,550 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:00,001 - INFO - Author found for 'The Five Love Languages: How to Express Heartfelt Commitment to Your Mate': Gary D. Chapman | country: None
-2026-04-07 19:43:01,343 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
-2026-04-07 19:43:04,981 - INFO - Trying Wikipedia for 'R. D. Ronald'...
-2026-04-07 19:43:05,711 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:07,165 - INFO - Author found for 'The Elephant Tree': R. D. Ronald | country: None
-2026-04-07 19:43:08,441 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
-2026-04-07 19:43:11,996 - INFO - Trying Wikipedia for 'David Litchfield'...
-2026-04-07 19:43:12,729 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:14,076 - INFO - Author found for 'The Bear and the Piano': David Litchfield | country: None
-2026-04-07 19:43:15,387 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
-2026-04-07 19:43:18,950 - INFO - Trying Wikipedia for 'Jostein Gaarder'...
-2026-04-07 19:43:19,638 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:21,026 - INFO - Author found for 'Sophie's World': Jostein Gaarder | country: None
-2026-04-07 19:43:22,232 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sophies-world_966/index.html
-2026-04-07 19:43:25,674 - INFO - Trying Wikipedia for 'Kathleen Martin'...
-2026-04-07 19:43:26,349 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:27,633 - INFO - Author found for 'Penny Maybe': Kathleen Martin | country: None
-2026-04-07 19:43:28,908 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/penny-maybe_965/index.html
-2026-04-07 19:43:35,219 - INFO - Author found for 'Maude (1883-1993):She Grew Up with the country': Gwendolyn Brooks | country: United States
-2026-04-07 19:43:36,481 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
-2026-04-07 19:43:41,618 - INFO - Author found for 'In a Dark, Dark Wood': Ruth Ware | country: United Kingdom
-2026-04-07 19:43:42,781 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
-2026-04-07 19:43:48,587 - INFO - Author found for 'Behind Closed Doors': B.A. Paris | country: United Kingdom
-2026-04-07 19:43:49,849 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
-2026-04-07 19:43:53,379 - INFO - Trying Wikipedia for 'Patrick Woodcock'...
-2026-04-07 19:43:54,129 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:43:55,409 - INFO - Author found for 'You can't bury them all: Poems': Patrick Woodcock | country: None
-2026-04-07 19:43:56,806 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
-2026-04-07 19:44:00,247 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-3.html
-2026-04-07 19:44:03,080 - INFO - Trying Wikipedia for 'Ashley-Elizabeth Best'...
-2026-04-07 19:44:03,765 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:05,064 - INFO - Author found for 'Slow States of Collapse: Poems': Ashley-Elizabeth Best | country: None
-2026-04-07 19:44:06,257 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
-2026-04-07 19:44:10,278 - INFO - Trying Wikipedia for 'Matt Haig'...
-2026-04-07 19:44:11,016 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:12,293 - INFO - Author found for 'Reasons to Stay Alive': Matt Haig | country: None
-2026-04-07 19:44:13,468 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
-2026-04-07 19:44:18,717 - INFO - Author found for 'Private Paris (Private #10)': James Patterson | country: United States
-2026-04-07 19:44:20,032 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
-2026-04-07 19:44:23,700 - INFO - Trying Wikipedia for 'Lucy Sheridan'...
-2026-04-07 19:44:24,426 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:25,750 - INFO - Author found for '#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.': Lucy Sheridan | country: None
-2026-04-07 19:44:26,969 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
-2026-04-07 19:44:30,615 - INFO - Trying Wikipedia for 'Thomas W. Ward'...
-2026-04-07 19:44:31,276 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:32,544 - INFO - Author found for 'Without Borders (Wanderlove #1)': Thomas W. Ward | country: None
-2026-04-07 19:44:33,781 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
-2026-04-07 19:44:37,265 - INFO - Trying Wikipedia for 'Emery Lord'...
-2026-04-07 19:44:38,057 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:39,474 - INFO - Author found for 'When We Collided': Emery Lord | country: None
-2026-04-07 19:44:40,720 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/when-we-collided_955/index.html
-2026-04-07 19:44:44,320 - INFO - Trying Wikipedia for 'Kaitlyn Greenidge'...
-2026-04-07 19:44:45,047 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:44:46,293 - INFO - Author found for 'We Love You, Charlie Freeman': Kaitlyn Greenidge | country: None
-2026-04-07 19:44:47,596 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
-2026-04-07 19:44:53,492 - INFO - Author found for 'Untitled Collection: Sabbath Poems 2014': Neil Gaiman | country: United States
-2026-04-07 19:44:54,892 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
-2026-04-07 19:44:58,490 - INFO - Trying Wikipedia for 'Nathanael Johnson'...
-2026-04-07 19:44:59,292 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:45:00,688 - INFO - Author found for 'Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness': Nathanael Johnson | country: None
-2026-04-07 19:45:01,970 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
-2026-04-07 19:45:05,654 - INFO - Trying Wikipedia for 'Julia Ember'...
-2026-04-07 19:45:06,438 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:45:07,768 - INFO - Author found for 'Unicorn Tracks': Julia Ember | country: None
-2026-04-07 19:45:09,172 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
-2026-04-07 19:45:15,716 - INFO - Author found for 'Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink': Brandon Sanderson | country: United States
-2026-04-07 19:45:17,259 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
-2026-04-07 19:45:25,016 - ERROR - Network error fetching author for 'Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)': HTTPSConnectionPool(host='openlibrary.org', port=443): Max retries exceeded with url: /authors/OL6788502A.json (Caused by ConnectTimeoutError(<HTTPSConnection(host='openlibrary.org', port=443) at 0x22026dd9190>, 'Connection to openlibrary.org timed out. (connect timeout=5)'))
-2026-04-07 19:45:27,237 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
-2026-04-07 19:45:32,479 - INFO - Author found for 'Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity': Douglas Rushkoff | country: United States
-2026-04-07 19:45:33,783 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
-2026-04-07 19:45:38,849 - INFO - Author found for 'This One Summer': Mariko Tamaki | country: Canada
-2026-04-07 19:45:40,261 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/this-one-summer_947/index.html
-2026-04-07 19:45:43,915 - INFO - Trying Wikipedia for 'Golden Books'...
-2026-04-07 19:45:44,715 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:45:46,076 - INFO - Author found for 'Thirst': Golden Books | country: None
-2026-04-07 19:45:47,355 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/thirst_946/index.html
-2026-04-07 19:45:49,883 - INFO - Author found for 'The Torch Is Passed: A Harding Family Story': None | country: None
-2026-04-07 19:45:51,237 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
-2026-04-07 19:45:54,878 - INFO - Trying Wikipedia for 'Brian Farrey'...
-2026-04-07 19:45:55,591 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:45:56,898 - INFO - Author found for 'The Secret of Dreadwillow Carse': Brian Farrey | country: None
-2026-04-07 19:45:58,179 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
-2026-04-07 19:46:02,671 - INFO - Trying Wikipedia for 'Ree Drummond'...
-2026-04-07 19:46:03,507 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:06,687 - INFO - Author found for 'The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!': Ree Drummond | country: None
-2026-04-07 19:46:08,043 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
-2026-04-07 19:46:11,751 - INFO - Trying Wikipedia for 'Jackson Burnett'...
-2026-04-07 19:46:12,501 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:13,887 - INFO - Author found for 'The Past Never Ends': Jackson Burnett | country: None
-2026-04-07 19:46:15,218 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
-2026-04-07 19:46:18,941 - INFO - Trying Wikipedia for 'Worthington Hooker'...
-2026-04-07 19:46:19,814 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:21,206 - INFO - Author found for 'The Natural History of Us (The Fine Art of Pretending #2)': Worthington Hooker | country: None
-2026-04-07 19:46:22,791 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
-2026-04-07 19:46:25,512 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-4.html
-2026-04-07 19:46:28,029 - INFO - Trying Wikipedia for 'Faith Erin Hicks'...
-2026-04-07 19:46:28,809 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:30,286 - INFO - Author found for 'The Nameless City (The Nameless City #1)': Faith Erin Hicks | country: Canada
-2026-04-07 19:46:31,591 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
-2026-04-07 19:46:35,323 - INFO - Trying Wikipedia for 'Andrea Kane'...
-2026-04-07 19:46:36,008 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:37,293 - INFO - Author found for 'The Murder That Never Was (Forensic Instincts #5)': Andrea Kane | country: None
-2026-04-07 19:46:38,540 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
-2026-04-07 19:46:42,161 - INFO - Trying Wikipedia for 'Tim Birkhead'...
-2026-04-07 19:46:42,902 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:44,399 - INFO - Author found for 'The Most Perfect Thing: Inside (and Outside) a Bird's Egg': Tim Birkhead | country: None
-2026-04-07 19:46:45,778 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
-2026-04-07 19:46:49,407 - INFO - Trying Wikipedia for 'Nancy Kocovski'...
-2026-04-07 19:46:50,164 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:51,552 - INFO - Author found for 'The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy': Nancy Kocovski | country: None
-2026-04-07 19:46:52,804 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
-2026-04-07 19:46:56,407 - INFO - Trying Wikipedia for 'Marie Kondo'...
-2026-04-07 19:46:57,114 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:46:58,459 - INFO - Author found for 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing': Marie Kondo | country: None
-2026-04-07 19:46:59,690 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
-2026-04-07 19:47:03,596 - INFO - Trying Wikipedia for 'Helene Segura'...
-2026-04-07 19:47:04,526 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:05,940 - INFO - Author found for 'The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer': Helene Segura | country: None
-2026-04-07 19:47:07,335 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
-2026-04-07 19:47:10,882 - INFO - Trying Wikipedia for 'Caroline Paul'...
-2026-04-07 19:47:11,689 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:13,025 - INFO - Author found for 'The Gutsy Girl: Escapades for Your Life of Epic Adventure': Caroline Paul | country: None
-2026-04-07 19:47:14,256 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
-2026-04-07 19:47:17,789 - INFO - Trying Wikipedia for 'Edward Deeds'...
-2026-04-07 19:47:18,548 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:19,846 - INFO - Author found for 'The Electric Pencil: Drawings from Inside State Hospital No. 3': Edward Deeds | country: None
-2026-04-07 19:47:21,213 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
-2026-04-07 19:47:24,860 - INFO - Trying Wikipedia for 'Richard Weikart'...
-2026-04-07 19:47:25,582 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:26,831 - INFO - Author found for 'The Death of Humanity: and the Case for Life': Richard Weikart | country: None
-2026-04-07 19:47:28,144 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
-2026-04-07 19:47:31,741 - INFO - Trying Wikipedia for 'Mose Escarrega'...
-2026-04-07 19:47:32,536 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:34,061 - INFO - Author found for 'The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life': Mose Escarrega | country: None
-2026-04-07 19:47:35,288 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
-2026-04-07 19:47:39,101 - INFO - Trying Wikipedia for 'Eric Hebborn'...
-2026-04-07 19:47:39,793 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:41,163 - INFO - Author found for 'The Art Forger': Eric Hebborn | country: None
-2026-04-07 19:47:42,525 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-art-forger_930/index.html
-2026-04-07 19:47:46,487 - INFO - Trying Wikipedia for 'A. C. Grayling'...
-2026-04-07 19:47:47,209 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:48,602 - INFO - Author found for 'The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind': A. C. Grayling | country: None
-2026-04-07 19:47:49,869 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
-2026-04-07 19:47:53,567 - INFO - Trying Wikipedia for 'William Martin'...
-2026-04-07 19:47:54,274 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:47:55,810 - INFO - Author found for 'The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution': William Martin | country: None
-2026-04-07 19:47:57,059 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
-2026-04-07 19:48:00,625 - INFO - Trying Wikipedia for 'Marie Kondo'...
-2026-04-07 19:48:01,439 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:48:02,910 - INFO - Author found for 'Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up': Marie Kondo | country: None
-2026-04-07 19:48:04,264 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
-2026-04-07 19:48:08,067 - INFO - Trying Wikipedia for 'David Brackett'...
-2026-04-07 19:48:08,839 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:48:10,062 - INFO - Author found for 'Soul Reader': David Brackett | country: None
-2026-04-07 19:48:11,364 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/soul-reader_926/index.html
-2026-04-07 19:48:15,268 - INFO - Trying Wikipedia for 'Benjamin Graham'...
-2026-04-07 19:48:15,937 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
-2026-04-07 19:48:17,192 - INFO - Author found for 'Security': Benjamin Graham | country: None
+2026-04-07 19:58:50,989 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-1.html
+2026-04-07 19:58:54,467 - INFO - Trying Wikipedia for 'Shel Silverstein'...
+2026-04-07 19:58:55,633 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1930}
+2026-04-07 19:58:55,633 - INFO - Wikipedia used for 'Shel Silverstein' \u2192 {'country': 'United States', 'birth_year': 1930}
+2026-04-07 19:58:57,214 - INFO - Author found for 'A Light in the Attic': Shel Silverstein | country: United States | birth_year: 1930
+2026-04-07 19:58:58,372 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2026-04-07 19:59:03,367 - INFO - Author found for 'Tipping the Velvet': Sarah Waters | country: United Kingdom | birth_year: 1966
+2026-04-07 19:59:04,637 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2026-04-07 19:59:09,831 - INFO - Author found for 'Soumission': Michel Houellebecq | country: France | birth_year: 1956
+2026-04-07 19:59:11,102 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/soumission_998/index.html
+2026-04-07 19:59:14,594 - INFO - Trying Wikipedia for 'Gillian Flynn'...
+2026-04-07 19:59:15,555 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2006}
+2026-04-07 19:59:15,555 - INFO - Wikipedia used for 'Gillian Flynn' \u2192 {'country': 'United States', 'birth_year': 2006}
+2026-04-07 19:59:16,926 - INFO - Author found for 'Sharp Objects': Gillian Flynn | country: United States | birth_year: 2006
+2026-04-07 19:59:18,209 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sharp-objects_997/index.html
+2026-04-07 19:59:21,715 - INFO - Trying Wikipedia for 'Yuval Noah Harari'...
+2026-04-07 19:59:22,608 - INFO - Wikipedia result: {'country': 'Russia', 'birth_year': 2011}
+2026-04-07 19:59:22,608 - INFO - Wikipedia used for 'Yuval Noah Harari' \u2192 {'country': 'Russia', 'birth_year': 2011}
+2026-04-07 19:59:23,990 - INFO - Author found for 'Sapiens: A Brief History of Humankind': Yuval Noah Harari | country: Russia | birth_year: 1976
+2026-04-07 19:59:26,197 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2026-04-07 19:59:29,945 - INFO - Trying Wikipedia for 'Brynn Chapman'...
+2026-04-07 19:59:31,061 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 19:59:32,376 - INFO - Author found for 'The Requiem Red': Brynn Chapman | country: None | birth_year: None
+2026-04-07 19:59:33,624 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2026-04-07 19:59:37,207 - INFO - Trying Wikipedia for 'Don Raskin'...
+2026-04-07 19:59:38,613 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 19:59:39,878 - INFO - Author found for 'The Dirty Little Secrets of Getting Your Dream Job': Don Raskin | country: None | birth_year: None
+2026-04-07 19:59:41,342 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2026-04-07 19:59:45,135 - INFO - Trying Wikipedia for 'Lillie D. White'...
+2026-04-07 19:59:46,423 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 19:59:47,783 - INFO - Author found for 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull': Lillie D. White | country: None | birth_year: None
+2026-04-07 19:59:49,022 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2026-04-07 19:59:52,780 - INFO - Trying Wikipedia for 'Daniel James Brown'...
+2026-04-07 19:59:53,641 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1951}
+2026-04-07 19:59:53,641 - INFO - Wikipedia used for 'Daniel James Brown' \u2192 {'country': 'United States', 'birth_year': 1951}
+2026-04-07 19:59:54,964 - INFO - Author found for 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics': Daniel James Brown | country: United States | birth_year: 1951
+2026-04-07 19:59:56,259 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html
+2026-04-07 19:59:59,767 - INFO - Trying Wikipedia for 'Aracelis Girmay'...
+2026-04-07 20:00:00,624 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2016}
+2026-04-07 20:00:00,624 - INFO - Wikipedia used for 'Aracelis Girmay' \u2192 {'country': 'United States', 'birth_year': 2016}
+2026-04-07 20:00:01,938 - INFO - Author found for 'The Black Maria': Aracelis Girmay | country: United States | birth_year: 2016
+2026-04-07 20:00:03,158 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2026-04-07 20:00:06,605 - INFO - Trying Wikipedia for 'Lydia West'...
+2026-04-07 20:00:07,365 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1993}
+2026-04-07 20:00:07,365 - INFO - Wikipedia used for 'Lydia West' \u2192 {'country': 'United Kingdom', 'birth_year': 1993}
+2026-04-07 20:00:09,659 - INFO - Author found for 'Starving Hearts (Triangular Trade Trilogy, #1)': Lydia West | country: United Kingdom | birth_year: 1993
+2026-04-07 20:00:11,576 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+2026-04-07 20:00:16,569 - INFO - Author found for 'Shakespeare's Sonnets': William Shakespeare | country: United Kingdom | birth_year: 1564
+2026-04-07 20:00:17,765 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html
+2026-04-07 20:00:21,364 - INFO - Trying Wikipedia for 'Jay Dee'...
+2026-04-07 20:00:22,830 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1974}
+2026-04-07 20:00:22,830 - INFO - Wikipedia used for 'Jay Dee' \u2192 {'country': 'United States', 'birth_year': 1974}
+2026-04-07 20:00:24,364 - INFO - Author found for 'Set Me Free': Jay Dee | country: United States | birth_year: 1974
+2026-04-07 20:00:25,764 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/set-me-free_988/index.html
+2026-04-07 20:00:30,790 - INFO - Author found for 'Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)': Bryan Lee O'Malley | country: Canada | birth_year: 1979
+2026-04-07 20:00:32,054 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+2026-04-07 20:00:35,693 - INFO - Trying Wikipedia for 'Simon Reynolds'...
+2026-04-07 20:00:36,535 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1963}
+2026-04-07 20:00:36,535 - INFO - Wikipedia used for 'Simon Reynolds' \u2192 {'country': 'United Kingdom', 'birth_year': 1963}
+2026-04-07 20:00:38,049 - INFO - Author found for 'Rip it Up and Start Again': Simon Reynolds | country: United Kingdom | birth_year: 1963
+2026-04-07 20:00:39,266 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2026-04-07 20:00:43,063 - INFO - Trying Wikipedia for 'Michael Azerrad'...
+2026-04-07 20:00:43,965 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1993}
+2026-04-07 20:00:43,965 - INFO - Wikipedia used for 'Michael Azerrad' \u2192 {'country': 'United States', 'birth_year': 1993}
+2026-04-07 20:00:45,294 - INFO - Author found for 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991': Michael Azerrad | country: United States | birth_year: 1993
+2026-04-07 20:00:46,594 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+2026-04-07 20:00:50,195 - INFO - Trying Wikipedia for 'Tyehimba Jess'...
+2026-04-07 20:00:51,210 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:00:51,211 - INFO - Wikipedia used for 'Tyehimba Jess' \u2192 {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:00:52,677 - INFO - Author found for 'Olio': Tyehimba Jess | country: United States | birth_year: 2017
+2026-04-07 20:00:54,124 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/olio_984/index.html
+2026-04-07 20:00:57,830 - INFO - Trying Wikipedia for 'Andrew Barger'...
+2026-04-07 20:00:58,778 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:00,208 - INFO - Author found for 'Mesaerion: The Best Science Fiction Stories 1800-1849': Andrew Barger | country: None | birth_year: None
+2026-04-07 20:01:01,609 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+2026-04-07 20:01:05,160 - INFO - Trying Wikipedia for 'Todd Seavey'...
+2026-04-07 20:01:06,508 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:07,787 - INFO - Author found for 'Libertarianism for Beginners': Todd Seavey | country: None | birth_year: None
+2026-04-07 20:01:09,024 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html
+2026-04-07 20:01:12,542 - INFO - Trying Wikipedia for 'S. Bedford'...
+2026-04-07 20:01:13,951 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:15,298 - INFO - Author found for 'It's Only the Himalayas': S. Bedford | country: None | birth_year: None
+2026-04-07 20:01:16,535 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html
+2026-04-07 20:01:20,222 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-2.html
+2026-04-07 20:01:22,802 - INFO - Trying Wikipedia for 'Amanda Jennings'...
+2026-04-07 20:01:23,961 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:25,288 - INFO - Author found for 'In Her Wake': Amanda Jennings | country: None | birth_year: None
+2026-04-07 20:01:26,523 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/in-her-wake_980/index.html
+2026-04-07 20:01:31,297 - INFO - Author found for 'How Music Works': David Byrne | country: United States | birth_year: 1952
+2026-04-07 20:01:32,708 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/how-music-works_979/index.html
+2026-04-07 20:01:36,627 - INFO - Trying Wikipedia for 'Editors at America's Test Kitchen'...
+2026-04-07 20:01:38,110 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:39,823 - INFO - Author found for 'Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More': Editors at America's Test Kitchen | country: None | birth_year: None
+2026-04-07 20:01:41,147 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2026-04-07 20:01:44,755 - INFO - Trying Wikipedia for 'Karen Kilgariff'...
+2026-04-07 20:01:45,636 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:01:45,636 - INFO - Wikipedia used for 'Karen Kilgariff' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:01:46,983 - INFO - Author found for 'Chase Me (Paris Nights #2)': Karen Kilgariff | country: United States | birth_year: None
+2026-04-07 20:01:48,190 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html
+2026-04-07 20:01:51,717 - INFO - Trying Wikipedia for 'Bruce Berglund'...
+2026-04-07 20:01:52,965 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:01:54,472 - INFO - Author found for 'Black Dust': Bruce Berglund | country: None | birth_year: None
+2026-04-07 20:01:55,684 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/black-dust_976/index.html
+2026-04-07 20:02:00,511 - INFO - Author found for 'Birdsong: A Story in Pictures': Sebastian Faulks | country: United Kingdom | birth_year: 1953
+2026-04-07 20:02:01,762 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html
+2026-04-07 20:02:05,325 - INFO - Trying Wikipedia for 'Wayne Stewart'...
+2026-04-07 20:02:06,218 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1947}
+2026-04-07 20:02:06,218 - INFO - Wikipedia used for 'Wayne Stewart' \u2192 {'country': 'United States', 'birth_year': 1947}
+2026-04-07 20:02:07,552 - INFO - Author found for 'America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana': Wayne Stewart | country: United States | birth_year: 1951
+2026-04-07 20:02:08,714 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html
+2026-04-07 20:02:12,304 - INFO - Trying Wikipedia for 'Alan Brown'...
+2026-04-07 20:02:13,114 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:02:14,493 - INFO - Author found for 'Aladdin and His Wonderful Lamp': Alan Brown | country: None | birth_year: None
+2026-04-07 20:02:15,728 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html
+2026-04-07 20:02:19,146 - INFO - Trying Wikipedia for 'Andrew Dickson'...
+2026-04-07 20:02:19,982 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1988}
+2026-04-07 20:02:19,982 - INFO - Wikipedia used for 'Andrew Dickson' \u2192 {'country': 'United Kingdom', 'birth_year': 1988}
+2026-04-07 20:02:21,229 - INFO - Author found for 'Worlds Elsewhere: Journeys Around Shakespeareâ\x80\x99s Globe': Andrew Dickson | country: United Kingdom | birth_year: 1988
+2026-04-07 20:02:22,435 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2026-04-07 20:02:26,133 - INFO - Trying Wikipedia for 'Banksy'...
+2026-04-07 20:02:27,164 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:02:28,471 - INFO - Author found for 'Wall and Piece': Banksy | country: None | birth_year: 1974
+2026-04-07 20:02:29,745 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/wall-and-piece_971/index.html
+2026-04-07 20:02:34,558 - INFO - Author found for 'The Four Agreements: A Practical Guide to Personal Freedom': Don Miguel Ruiz | country: Mexico | birth_year: 1952
+2026-04-07 20:02:36,505 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2026-04-07 20:02:40,012 - INFO - Trying Wikipedia for 'Gary D. Chapman'...
+2026-04-07 20:02:41,687 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:02:43,083 - INFO - Author found for 'The Five Love Languages: How to Express Heartfelt Commitment to Your Mate': Gary D. Chapman | country: None | birth_year: 1938
+2026-04-07 20:02:44,448 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html
+2026-04-07 20:02:47,936 - INFO - Trying Wikipedia for 'R. D. Ronald'...
+2026-04-07 20:02:49,174 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:02:50,469 - INFO - Author found for 'The Elephant Tree': R. D. Ronald | country: None | birth_year: None
+2026-04-07 20:02:51,708 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html
+2026-04-07 20:02:55,298 - INFO - Trying Wikipedia for 'David Litchfield'...
+2026-04-07 20:02:56,166 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 2003}
+2026-04-07 20:02:56,166 - INFO - Wikipedia used for 'David Litchfield' \u2192 {'country': 'United Kingdom', 'birth_year': 2003}
+2026-04-07 20:02:57,885 - INFO - Author found for 'The Bear and the Piano': David Litchfield | country: United Kingdom | birth_year: 2003
+2026-04-07 20:02:59,106 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html
+2026-04-07 20:03:02,605 - INFO - Trying Wikipedia for 'Jostein Gaarder'...
+2026-04-07 20:03:03,979 - INFO - Wikipedia result: {'country': 'Norway', 'birth_year': 1991}
+2026-04-07 20:03:03,979 - INFO - Wikipedia used for 'Jostein Gaarder' \u2192 {'country': 'Norway', 'birth_year': 1991}
+2026-04-07 20:03:05,379 - INFO - Author found for 'Sophie's World': Jostein Gaarder | country: Norway | birth_year: 1952
+2026-04-07 20:03:06,754 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/sophies-world_966/index.html
+2026-04-07 20:03:10,417 - INFO - Trying Wikipedia for 'Kathleen Martin'...
+2026-04-07 20:03:11,401 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:03:11,402 - INFO - Wikipedia used for 'Kathleen Martin' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:03:12,821 - INFO - Author found for 'Penny Maybe': Kathleen Martin | country: United States | birth_year: None
+2026-04-07 20:03:14,114 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/penny-maybe_965/index.html
+2026-04-07 20:03:19,545 - INFO - Author found for 'Maude (1883-1993):She Grew Up with the country': Gwendolyn Brooks | country: United States | birth_year: 1917
+2026-04-07 20:03:20,806 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html
+2026-04-07 20:03:28,656 - INFO - Author found for 'In a Dark, Dark Wood': Ruth Ware | country: United Kingdom | birth_year: 1977
+2026-04-07 20:03:29,928 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html
+2026-04-07 20:03:34,982 - INFO - Author found for 'Behind Closed Doors': B.A. Paris | country: United Kingdom | birth_year: 1958
+2026-04-07 20:03:36,275 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html
+2026-04-07 20:03:39,926 - INFO - Trying Wikipedia for 'Patrick Woodcock'...
+2026-04-07 20:03:40,845 - INFO - Wikipedia result: {'country': 'Canada', 'birth_year': 1968}
+2026-04-07 20:03:40,845 - INFO - Wikipedia used for 'Patrick Woodcock' \u2192 {'country': 'Canada', 'birth_year': 1968}
+2026-04-07 20:03:42,189 - INFO - Author found for 'You can't bury them all: Poems': Patrick Woodcock | country: Canada | birth_year: 1968
+2026-04-07 20:03:43,400 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html
+2026-04-07 20:03:46,080 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-3.html
+2026-04-07 20:03:48,736 - INFO - Trying Wikipedia for 'Ashley-Elizabeth Best'...
+2026-04-07 20:03:49,762 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:03:51,099 - INFO - Author found for 'Slow States of Collapse: Poems': Ashley-Elizabeth Best | country: None | birth_year: None
+2026-04-07 20:03:52,438 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html
+2026-04-07 20:03:56,159 - INFO - Trying Wikipedia for 'Matt Haig'...
+2026-04-07 20:03:57,044 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': None}
+2026-04-07 20:03:57,044 - INFO - Wikipedia used for 'Matt Haig' \u2192 {'country': 'United Kingdom', 'birth_year': None}
+2026-04-07 20:04:02,836 - ERROR - Network error fetching author for 'Reasons to Stay Alive': HTTPSConnectionPool(host='openlibrary.org', port=443): Read timed out. (read timeout=5)
+2026-04-07 20:04:04,107 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/reasons-to-stay-alive_959/index.html
+2026-04-07 20:04:09,711 - INFO - Author found for 'Private Paris (Private #10)': James Patterson | country: United States | birth_year: 1947
+2026-04-07 20:04:10,964 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html
+2026-04-07 20:04:14,677 - INFO - Trying Wikipedia for 'Lucy Sheridan'...
+2026-04-07 20:04:15,791 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:04:17,056 - INFO - Author found for '#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.': Lucy Sheridan | country: None | birth_year: None
+2026-04-07 20:04:18,288 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html
+2026-04-07 20:04:21,966 - INFO - Trying Wikipedia for 'Thomas W. Ward'...
+2026-04-07 20:04:23,064 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:04:23,064 - INFO - Wikipedia used for 'Thomas W. Ward' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:04:24,300 - INFO - Author found for 'Without Borders (Wanderlove #1)': Thomas W. Ward | country: United States | birth_year: 1957
+2026-04-07 20:04:25,719 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/without-borders-wanderlove-1_956/index.html
+2026-04-07 20:04:29,387 - INFO - Trying Wikipedia for 'Emery Lord'...
+2026-04-07 20:04:30,443 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:04:31,877 - INFO - Author found for 'When We Collided': Emery Lord | country: None | birth_year: None
+2026-04-07 20:04:33,508 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/when-we-collided_955/index.html
+2026-04-07 20:04:37,131 - INFO - Trying Wikipedia for 'Kaitlyn Greenidge'...
+2026-04-07 20:04:37,964 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:04:37,964 - INFO - Wikipedia used for 'Kaitlyn Greenidge' \u2192 {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:04:39,325 - INFO - Author found for 'We Love You, Charlie Freeman': Kaitlyn Greenidge | country: United States | birth_year: 2017
+2026-04-07 20:04:40,590 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html
+2026-04-07 20:04:45,507 - INFO - Author found for 'Untitled Collection: Sabbath Poems 2014': Neil Gaiman | country: United States | birth_year: 1960
+2026-04-07 20:04:46,989 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/untitled-collection-sabbath-poems-2014_953/index.html
+2026-04-07 20:04:50,639 - INFO - Trying Wikipedia for 'Nathanael Johnson'...
+2026-04-07 20:04:51,614 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:04:52,921 - INFO - Author found for 'Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness': Nathanael Johnson | country: None | birth_year: None
+2026-04-07 20:04:54,145 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html
+2026-04-07 20:04:57,849 - INFO - Trying Wikipedia for 'Julia Ember'...
+2026-04-07 20:04:58,758 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:04:58,758 - INFO - Wikipedia used for 'Julia Ember' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:05:00,075 - INFO - Author found for 'Unicorn Tracks': Julia Ember | country: United States | birth_year: None
+2026-04-07 20:05:01,266 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unicorn-tracks_951/index.html
+2026-04-07 20:05:09,639 - INFO - Author found for 'Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink': Brandon Sanderson | country: United States | birth_year: 1975
+2026-04-07 20:05:10,841 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html
+2026-04-07 20:05:14,404 - INFO - Trying Wikipedia for 'Natsuki Takaya'...
+2026-04-07 20:05:15,697 - INFO - Wikipedia result: {'country': 'Japan', 'birth_year': 1973}
+2026-04-07 20:05:15,697 - INFO - Wikipedia used for 'Natsuki Takaya' \u2192 {'country': 'Japan', 'birth_year': 1973}
+2026-04-07 20:05:17,044 - INFO - Author found for 'Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)': Natsuki Takaya | country: Japan | birth_year: 1973
+2026-04-07 20:05:18,324 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html
+2026-04-07 20:05:23,529 - INFO - Author found for 'Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity': Douglas Rushkoff | country: United States | birth_year: 1961
+2026-04-07 20:05:24,850 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html
+2026-04-07 20:05:30,696 - INFO - Author found for 'This One Summer': Mariko Tamaki | country: Canada | birth_year: 1975
+2026-04-07 20:05:31,930 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/this-one-summer_947/index.html
+2026-04-07 20:05:35,723 - INFO - Trying Wikipedia for 'Golden Books'...
+2026-04-07 20:05:36,649 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1907}
+2026-04-07 20:05:36,649 - INFO - Wikipedia used for 'Golden Books' \u2192 {'country': 'United States', 'birth_year': 1907}
+2026-04-07 20:05:38,162 - INFO - Author found for 'Thirst': Golden Books | country: United States | birth_year: 1907
+2026-04-07 20:05:39,350 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/thirst_946/index.html
+2026-04-07 20:05:41,738 - INFO - Author found for 'The Torch Is Passed: A Harding Family Story': None | country: None | birth_year: None
+2026-04-07 20:05:42,982 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-torch-is-passed-a-harding-family-story_945/index.html
+2026-04-07 20:05:46,967 - INFO - Trying Wikipedia for 'Brian Farrey'...
+2026-04-07 20:05:48,204 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:05:49,575 - INFO - Author found for 'The Secret of Dreadwillow Carse': Brian Farrey | country: None | birth_year: None
+2026-04-07 20:05:50,878 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-secret-of-dreadwillow-carse_944/index.html
+2026-04-07 20:05:54,483 - INFO - Trying Wikipedia for 'Ree Drummond'...
+2026-04-07 20:05:55,382 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:05:55,382 - INFO - Wikipedia used for 'Ree Drummond' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:05:57,390 - INFO - Author found for 'The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!': Ree Drummond | country: United States | birth_year: None
+2026-04-07 20:05:58,612 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html
+2026-04-07 20:06:02,869 - INFO - Trying Wikipedia for 'Jackson Burnett'...
+2026-04-07 20:06:04,186 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:06:05,750 - INFO - Author found for 'The Past Never Ends': Jackson Burnett | country: None | birth_year: None
+2026-04-07 20:06:07,001 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html
+2026-04-07 20:06:10,997 - INFO - Trying Wikipedia for 'Worthington Hooker'...
+2026-04-07 20:06:11,761 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:06:11,761 - INFO - Wikipedia used for 'Worthington Hooker' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:06:13,158 - INFO - Author found for 'The Natural History of Us (The Fine Art of Pretending #2)': Worthington Hooker | country: United States | birth_year: 1806
+2026-04-07 20:06:14,359 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html
+2026-04-07 20:06:17,088 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-4.html
+2026-04-07 20:06:19,656 - INFO - Trying Wikipedia for 'Faith Erin Hicks'...
+2026-04-07 20:06:20,483 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': None}
+2026-04-07 20:06:20,483 - INFO - Wikipedia used for 'Faith Erin Hicks' \u2192 {'country': 'United Kingdom', 'birth_year': None}
+2026-04-07 20:06:21,846 - INFO - Author found for 'The Nameless City (The Nameless City #1)': Faith Erin Hicks | country: Canada | birth_year: None
+2026-04-07 20:06:23,094 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html
+2026-04-07 20:06:26,610 - INFO - Trying Wikipedia for 'Andrea Kane'...
+2026-04-07 20:06:27,499 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:06:27,499 - INFO - Wikipedia used for 'Andrea Kane' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:06:28,822 - INFO - Author found for 'The Murder That Never Was (Forensic Instincts #5)': Andrea Kane | country: United States | birth_year: None
+2026-04-07 20:06:30,102 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html
+2026-04-07 20:06:33,573 - INFO - Trying Wikipedia for 'Tim Birkhead'...
+2026-04-07 20:06:34,444 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1976}
+2026-04-07 20:06:34,444 - INFO - Wikipedia used for 'Tim Birkhead' \u2192 {'country': 'United Kingdom', 'birth_year': 1976}
+2026-04-07 20:06:35,785 - INFO - Author found for 'The Most Perfect Thing: Inside (and Outside) a Bird's Egg': Tim Birkhead | country: United Kingdom | birth_year: 1976
+2026-04-07 20:06:37,018 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+2026-04-07 20:06:40,967 - INFO - Trying Wikipedia for 'Nancy Kocovski'...
+2026-04-07 20:06:42,415 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:06:43,800 - INFO - Author found for 'The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy': Nancy Kocovski | country: None | birth_year: None
+2026-04-07 20:06:45,073 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html
+2026-04-07 20:06:48,868 - INFO - Trying Wikipedia for 'Marie Kondo'...
+2026-04-07 20:06:49,869 - INFO - Wikipedia result: {'country': 'Japan', 'birth_year': None}
+2026-04-07 20:06:49,869 - INFO - Wikipedia used for 'Marie Kondo' \u2192 {'country': 'Japan', 'birth_year': None}
+2026-04-07 20:06:51,187 - INFO - Author found for 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing': Marie Kondo | country: Japan | birth_year: 1984
+2026-04-07 20:06:52,427 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html
+2026-04-07 20:06:55,854 - INFO - Trying Wikipedia for 'Helene Segura'...
+2026-04-07 20:06:57,234 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:06:58,506 - INFO - Author found for 'The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer': Helene Segura | country: None | birth_year: 1941
+2026-04-07 20:06:59,639 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html
+2026-04-07 20:07:03,630 - INFO - Trying Wikipedia for 'Caroline Paul'...
+2026-04-07 20:07:04,617 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:07:04,617 - INFO - Wikipedia used for 'Caroline Paul' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:07:08,446 - INFO - Author found for 'The Gutsy Girl: Escapades for Your Life of Epic Adventure': Caroline Paul | country: United States | birth_year: None
+2026-04-07 20:07:13,647 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html
+2026-04-07 20:07:19,413 - INFO - Trying Wikipedia for 'Edward Deeds'...
+2026-04-07 20:07:21,323 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1874}
+2026-04-07 20:07:21,323 - INFO - Wikipedia used for 'Edward Deeds' \u2192 {'country': 'United States', 'birth_year': 1874}
+2026-04-07 20:07:22,985 - INFO - Author found for 'The Electric Pencil: Drawings from Inside State Hospital No. 3': Edward Deeds | country: United States | birth_year: 1908
+2026-04-07 20:07:24,969 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html
+2026-04-07 20:07:31,218 - INFO - Trying Wikipedia for 'Richard Weikart'...
+2026-04-07 20:07:32,957 - INFO - Wikipedia result: {'country': None, 'birth_year': 1997}
+2026-04-07 20:07:32,958 - INFO - Wikipedia used for 'Richard Weikart' \u2192 {'country': None, 'birth_year': 1997}
+2026-04-07 20:07:36,078 - INFO - Author found for 'The Death of Humanity: and the Case for Life': Richard Weikart | country: None | birth_year: 1958
+2026-04-07 20:07:39,092 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html
+2026-04-07 20:07:44,692 - INFO - Trying Wikipedia for 'Mose Escarrega'...
+2026-04-07 20:07:46,364 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:07:48,205 - INFO - Author found for 'The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life': Mose Escarrega | country: None | birth_year: None
+2026-04-07 20:07:50,007 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+2026-04-07 20:07:54,510 - INFO - Trying Wikipedia for 'Eric Hebborn'...
+2026-04-07 20:07:55,899 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1934}
+2026-04-07 20:07:55,900 - INFO - Wikipedia used for 'Eric Hebborn' \u2192 {'country': 'United Kingdom', 'birth_year': 1934}
+2026-04-07 20:07:57,693 - INFO - Author found for 'The Art Forger': Eric Hebborn | country: United Kingdom | birth_year: 1934
+2026-04-07 20:08:00,100 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-art-forger_930/index.html
+2026-04-07 20:08:04,297 - INFO - Trying Wikipedia for 'A. C. Grayling'...
+2026-04-07 20:08:05,272 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 2011}
+2026-04-07 20:08:05,272 - INFO - Wikipedia used for 'A. C. Grayling' \u2192 {'country': 'United Kingdom', 'birth_year': 2011}
+2026-04-07 20:08:07,160 - INFO - Author found for 'The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind': A. C. Grayling | country: United Kingdom | birth_year: 2011
+2026-04-07 20:08:13,669 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html
+2026-04-07 20:08:18,099 - INFO - Trying Wikipedia for 'William Martin'...
+2026-04-07 20:08:19,846 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:08:25,260 - INFO - Author found for 'The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution': William Martin | country: None | birth_year: 1944
+2026-04-07 20:08:26,881 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html
+2026-04-07 20:08:32,627 - INFO - Trying Wikipedia for 'Marie Kondo'...
+2026-04-07 20:08:33,838 - INFO - Wikipedia result: {'country': 'Japan', 'birth_year': None}
+2026-04-07 20:08:33,838 - INFO - Wikipedia used for 'Marie Kondo' \u2192 {'country': 'Japan', 'birth_year': None}
+2026-04-07 20:08:35,539 - INFO - Author found for 'Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up': Marie Kondo | country: Japan | birth_year: 1984
+2026-04-07 20:08:37,734 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
+2026-04-07 20:08:45,363 - INFO - Trying Wikipedia for 'David Brackett'...
+2026-04-07 20:08:47,292 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:08:50,529 - INFO - Author found for 'Soul Reader': David Brackett | country: None | birth_year: None
+2026-04-07 20:08:52,218 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/soul-reader_926/index.html
+2026-04-07 20:08:58,961 - INFO - Trying Wikipedia for 'Benjamin Graham'...
+2026-04-07 20:09:00,311 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1934}
+2026-04-07 20:09:00,311 - INFO - Wikipedia used for 'Benjamin Graham' \u2192 {'country': 'United States', 'birth_year': 1934}
+2026-04-07 20:09:01,962 - INFO - Author found for 'Security': Benjamin Graham | country: United States | birth_year: 1894
+2026-04-07 20:09:03,802 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/security_925/index.html
+2026-04-07 20:09:09,467 - INFO - Author found for 'Saga, Volume 6 (Saga (Collected Editions) #6)': Brian K. Vaughan | country: United States | birth_year: 1976
+2026-04-07 20:09:11,202 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/saga-volume-6-saga-collected-editions-6_924/index.html
+2026-04-07 20:09:15,416 - INFO - Trying Wikipedia for 'Megumi Tachikawa'...
+2026-04-07 20:09:16,497 - INFO - Wikipedia result: {'country': 'Japan', 'birth_year': 1992}
+2026-04-07 20:09:16,497 - INFO - Wikipedia used for 'Megumi Tachikawa' \u2192 {'country': 'Japan', 'birth_year': 1992}
+2026-04-07 20:09:18,189 - INFO - Author found for 'Saga, Volume 5 (Saga (Collected Editions) #5)': Megumi Tachikawa | country: Japan | birth_year: 1992
+2026-04-07 20:09:19,896 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/saga-volume-5-saga-collected-editions-5_923/index.html
+2026-04-07 20:09:24,119 - INFO - Trying Wikipedia for 'Katherine S. Newman'...
+2026-04-07 20:09:26,186 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:09:26,187 - INFO - Wikipedia used for 'Katherine S. Newman' \u2192 {'country': 'United States', 'birth_year': 2017}
+2026-04-07 20:09:27,920 - INFO - Author found for 'Reskilling America: Learning to Labor in the Twenty-First Century': Katherine S. Newman | country: United States | birth_year: 1953
+2026-04-07 20:09:33,832 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html
+2026-04-07 20:09:38,230 - INFO - Trying Wikipedia for 'Tess Fowler'...
+2026-04-07 20:09:39,957 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:09:41,572 - INFO - Author found for 'Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)': Tess Fowler | country: None | birth_year: None
+2026-04-07 20:09:43,222 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html
+2026-04-07 20:09:46,274 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-5.html
+2026-04-07 20:09:48,379 - WARNING - No author found for 'Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)'
+2026-04-07 20:09:51,805 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
+2026-04-07 20:09:55,796 - INFO - Trying Wikipedia for 'Elizabeth Dawson Baker'...
+2026-04-07 20:09:57,560 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:09:59,960 - INFO - Author found for 'Princess Between Worlds (Wide-Awake Princess #5)': Elizabeth Dawson Baker | country: None | birth_year: None
+2026-04-07 20:10:01,699 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/princess-between-worlds-wide-awake-princess-5_919/index.html
+2026-04-07 20:10:04,430 - WARNING - No author found for 'Pop Gun War, Volume 1: Gift'
+2026-04-07 20:10:06,397 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/pop-gun-war-volume-1-gift_918/index.html
+2026-04-07 20:10:16,305 - INFO - Author found for 'Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics': Robert Barnard | country: United Kingdom | birth_year: 1936
+2026-04-07 20:10:20,949 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html
+2026-04-07 20:10:29,091 - INFO - Trying Wikipedia for 'Isabel Miller'...
+2026-04-07 20:10:30,557 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:10:30,557 - INFO - Wikipedia used for 'Isabel Miller' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:10:32,467 - INFO - Author found for 'Patience': Isabel Miller | country: United States | birth_year: 1924
+2026-04-07 20:10:34,411 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/patience_916/index.html
+2026-04-07 20:10:39,570 - INFO - Trying Wikipedia for 'Clayton Emery'...
+2026-04-07 20:10:41,117 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1953}
+2026-04-07 20:10:41,117 - INFO - Wikipedia used for 'Clayton Emery' \u2192 {'country': 'United States', 'birth_year': 1953}
+2026-04-07 20:10:43,363 - INFO - Author found for 'Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)': Clayton Emery | country: United States | birth_year: 1953
+2026-04-07 20:10:45,539 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html
+2026-04-07 20:10:53,000 - INFO - Author found for 'orange: The Complete Collection 1 (orange: The Complete Collection #1)': Anthony Burgess | country: United Kingdom | birth_year: 1917
+2026-04-07 20:10:55,886 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html
+2026-04-07 20:11:01,951 - INFO - Trying Wikipedia for 'Fauzia Burke'...
+2026-04-07 20:11:03,913 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:11:07,636 - INFO - Author found for 'Online Marketing for Busy Authors: A Step-By-Step Guide': Fauzia Burke | country: None | birth_year: None
+2026-04-07 20:11:10,159 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+2026-04-07 20:11:15,394 - INFO - Trying Wikipedia for 'Bruce Hammack'...
+2026-04-07 20:11:18,027 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:11:20,626 - INFO - Author found for 'On a Midnight Clear': Bruce Hammack | country: None | birth_year: None
+2026-04-07 20:11:22,767 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/on-a-midnight-clear_912/index.html
+2026-04-07 20:11:28,600 - INFO - Trying Wikipedia for 'Jayne Ann Krentz'...
+2026-04-07 20:11:30,037 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1948}
+2026-04-07 20:11:30,037 - INFO - Wikipedia used for 'Jayne Ann Krentz' \u2192 {'country': 'United States', 'birth_year': 1948}
+2026-04-07 20:11:35,551 - INFO - Author found for 'Obsidian (Lux #1)': Jayne Ann Krentz | country: United States | birth_year: 1948
+2026-04-07 20:11:39,901 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/obsidian-lux-1_911/index.html
+2026-04-07 20:11:45,486 - INFO - Trying Wikipedia for 'David Lebovitz'...
+2026-04-07 20:11:46,830 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:11:46,830 - INFO - Wikipedia used for 'David Lebovitz' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:11:48,886 - INFO - Author found for 'My Paris Kitchen: Recipes and Stories': David Lebovitz | country: United States | birth_year: None
+2026-04-07 20:11:50,486 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/my-paris-kitchen-recipes-and-stories_910/index.html
+2026-04-07 20:11:56,012 - INFO - Trying Wikipedia for 'Winifred H. Mills'...
+2026-04-07 20:11:57,456 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:12:00,485 - INFO - Author found for 'Masks and Shadows': Winifred H. Mills | country: None | birth_year: None
+2026-04-07 20:12:04,744 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/masks-and-shadows_909/index.html
+2026-04-07 20:12:10,360 - INFO - Trying Wikipedia for 'Emily Flake'...
+2026-04-07 20:12:12,128 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2002}
+2026-04-07 20:12:12,128 - INFO - Wikipedia used for 'Emily Flake' \u2192 {'country': 'United States', 'birth_year': 2002}
+2026-04-07 20:12:14,357 - INFO - Author found for 'Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed': Emily Flake | country: United States | birth_year: 2002
+2026-04-07 20:12:16,358 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html
+2026-04-07 20:12:23,166 - INFO - Trying Wikipedia for 'N.D. Stevenson'...
+2026-04-07 20:12:25,047 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2018}
+2026-04-07 20:12:25,047 - INFO - Wikipedia used for 'N.D. Stevenson' \u2192 {'country': 'United States', 'birth_year': 2018}
+2026-04-07 20:12:26,912 - INFO - Author found for 'Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)': N.D. Stevenson | country: United States | birth_year: 1991
+2026-04-07 20:12:28,915 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html
+2026-04-07 20:12:33,590 - INFO - Trying Wikipedia for 'N.D. Stevenson'...
+2026-04-07 20:12:35,140 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2018}
+2026-04-07 20:12:35,140 - INFO - Wikipedia used for 'N.D. Stevenson' \u2192 {'country': 'United States', 'birth_year': 2018}
+2026-04-07 20:12:36,989 - INFO - Author found for 'Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)': N.D. Stevenson | country: United States | birth_year: 1991
+2026-04-07 20:12:38,987 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html
+2026-04-07 20:12:46,014 - INFO - Trying Wikipedia for 'N.D. Stevenson'...
+2026-04-07 20:12:52,905 - WARNING - Wikipedia fallback failed for 'N.D. Stevenson': HTTPSConnectionPool(host='en.wikipedia.org', port=443): Read timed out. (read timeout=5)
+2026-04-07 20:12:52,905 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:12:54,349 - INFO - Author found for 'Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)': N.D. Stevenson | country: None | birth_year: 1991
+2026-04-07 20:12:55,767 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html
+2026-04-07 20:13:00,082 - INFO - Trying Wikipedia for 'Pochi Yeh'...
+2026-04-07 20:13:01,546 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:13:02,933 - INFO - Author found for 'Layered: Baking, Building, and Styling Spectacular Cakes': Pochi Yeh | country: None | birth_year: 1948
+2026-04-07 20:13:04,638 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/layered-baking-building-and-styling-spectacular-cakes_904/index.html
+2026-04-07 20:13:09,809 - INFO - Trying Wikipedia for 'George J. Thompson'...
+2026-04-07 20:13:11,339 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:13:12,561 - INFO - Author found for 'Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)': George J. Thompson | country: None | birth_year: None
+2026-04-07 20:13:13,777 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html
+2026-04-07 20:13:17,276 - INFO - Trying Wikipedia for 'Johanna Lindsey'...
+2026-04-07 20:13:18,264 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1952}
+2026-04-07 20:13:18,264 - INFO - Wikipedia used for 'Johanna Lindsey' \u2192 {'country': 'United States', 'birth_year': 1952}
+2026-04-07 20:13:19,546 - INFO - Author found for 'Join': Johanna Lindsey | country: United States | birth_year: 1952
+2026-04-07 20:13:20,759 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/join_902/index.html
+2026-04-07 20:13:24,099 - INFO - Trying Wikipedia for 'Diane Guerrero'...
+2026-04-07 20:13:24,835 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2021}
+2026-04-07 20:13:24,835 - INFO - Wikipedia used for 'Diane Guerrero' \u2192 {'country': 'United States', 'birth_year': 2021}
+2026-04-07 20:13:26,027 - INFO - Author found for 'In the Country We Love: My Family Divided': Diane Guerrero | country: United States | birth_year: 2021
+2026-04-07 20:13:27,211 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/in-the-country-we-love-my-family-divided_901/index.html
+2026-04-07 20:13:29,748 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-6.html
+2026-04-07 20:13:32,165 - INFO - Trying Wikipedia for 'Philipp Dettmer'...
+2026-04-07 20:13:32,908 - INFO - Wikipedia result: {'country': 'Germany', 'birth_year': None}
+2026-04-07 20:13:32,908 - INFO - Wikipedia used for 'Philipp Dettmer' \u2192 {'country': 'Germany', 'birth_year': None}
+2026-04-07 20:13:34,106 - INFO - Author found for 'Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine': Philipp Dettmer | country: Germany | birth_year: None
+2026-04-07 20:13:35,231 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
+2026-04-07 20:13:42,244 - INFO - Trying Wikipedia for 'Skottie Young'...
+2026-04-07 20:13:43,021 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:13:43,021 - INFO - Wikipedia used for 'Skottie Young' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:13:44,249 - INFO - Author found for 'I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)': Skottie Young | country: United States | birth_year: None
+2026-04-07 20:13:45,376 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html
+2026-04-07 20:13:47,626 - WARNING - No author found for 'I am a Hero Omnibus Volume 1'
+2026-04-07 20:13:48,793 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/i-am-a-hero-omnibus-volume-1_898/index.html
+2026-04-07 20:13:52,076 - INFO - Trying Wikipedia for 'Randy J. Paterson'...
+2026-04-07 20:13:53,355 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:13:54,587 - INFO - Author found for 'How to Be Miserable: 40 Strategies You Already Use': Randy J. Paterson | country: None | birth_year: None
+2026-04-07 20:13:55,770 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/how-to-be-miserable-40-strategies-you-already-use_897/index.html
+2026-04-07 20:13:59,127 - INFO - Trying Wikipedia for 'Ashlee Mallory'...
+2026-04-07 20:14:00,493 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:14:01,717 - INFO - Author found for 'Her Backup Boyfriend (The Sorensen Family #1)': Ashlee Mallory | country: None | birth_year: None
+2026-04-07 20:14:02,940 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/her-backup-boyfriend-the-sorensen-family-1_896/index.html
+2026-04-07 20:14:06,351 - INFO - Trying Wikipedia for 'John Allison'...
+2026-04-07 20:14:07,162 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1821}
+2026-04-07 20:14:07,162 - INFO - Wikipedia used for 'John Allison' \u2192 {'country': 'United States', 'birth_year': 1821}
+2026-04-07 20:14:08,996 - INFO - Author found for 'Giant Days, Vol. 2 (Giant Days #5-8)': John Allison | country: United States | birth_year: 1821
+2026-04-07 20:14:10,154 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/giant-days-vol-2-giant-days-5-8_895/index.html
+2026-04-07 20:14:14,705 - INFO - Author found for 'Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton': Jenny Han | country: United States | birth_year: 1980
+2026-04-07 20:14:15,857 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html
+2026-04-07 20:14:20,702 - INFO - Trying Wikipedia for 'Olaf Stapledon'...
+2026-04-07 20:14:21,452 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 2014}
+2026-04-07 20:14:21,452 - INFO - Wikipedia used for 'Olaf Stapledon' \u2192 {'country': 'United Kingdom', 'birth_year': 2014}
+2026-04-07 20:14:22,668 - INFO - Author found for 'First and First (Five Boroughs #3)': Olaf Stapledon | country: United Kingdom | birth_year: 2014
+2026-04-07 20:14:23,798 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/first-and-first-five-boroughs-3_893/index.html
+2026-04-07 20:14:27,139 - INFO - Trying Wikipedia for 'E. L. James'...
+2026-04-07 20:14:27,855 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 2019}
+2026-04-07 20:14:27,855 - INFO - Wikipedia used for 'E. L. James' \u2192 {'country': 'United Kingdom', 'birth_year': 2019}
+2026-04-07 20:14:29,094 - INFO - Author found for 'Fifty Shades Darker (Fifty Shades #2)': E. L. James | country: United Kingdom | birth_year: 1963
+2026-04-07 20:14:30,232 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/fifty-shades-darker-fifty-shades-2_892/index.html
+2026-04-07 20:14:33,609 - INFO - Trying Wikipedia for 'John H. Johnson'...
+2026-04-07 20:14:34,821 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1942}
+2026-04-07 20:14:34,821 - INFO - Wikipedia used for 'John H. Johnson' \u2192 {'country': 'United States', 'birth_year': 1942}
+2026-04-07 20:14:36,015 - INFO - Author found for 'Everydata: The Misinformation Hidden in the Little Data You Consume Every Day': John H. Johnson | country: United States | birth_year: 1942
+2026-04-07 20:14:37,214 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html
+2026-04-07 20:14:40,590 - INFO - Trying Wikipedia for 'Tana Creative'...
+2026-04-07 20:14:41,476 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:14:42,714 - INFO - Author found for 'Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master': Tana Creative | country: None | birth_year: None
+2026-04-07 20:14:43,930 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+2026-04-07 20:14:46,103 - WARNING - No author found for 'Danganronpa Volume 1'
+2026-04-07 20:14:47,240 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/danganronpa-volume-1_889/index.html
+2026-04-07 20:14:50,582 - INFO - Trying Wikipedia for 'Sarah J. Maas'...
+2026-04-07 20:14:51,304 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:14:51,304 - INFO - Wikipedia used for 'Sarah J. Maas' \u2192 {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:14:52,766 - INFO - Author found for 'Crown of Midnight (Throne of Glass #2)': Sarah J. Maas | country: United States | birth_year: 1986
+2026-04-07 20:14:53,926 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/crown-of-midnight-throne-of-glass-2_888/index.html
+2026-04-07 20:14:56,102 - WARNING - No author found for 'Codename Baboushka, Volume 1: The Conclave of Death'
+2026-04-07 20:14:57,272 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/codename-baboushka-volume-1-the-conclave-of-death_887/index.html
+2026-04-07 20:15:00,585 - INFO - Trying Wikipedia for 'Steven T. Seagle'...
+2026-04-07 20:15:01,820 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1965}
+2026-04-07 20:15:01,820 - INFO - Wikipedia used for 'Steven T. Seagle' \u2192 {'country': 'United States', 'birth_year': 1965}
+2026-04-07 20:15:03,054 - INFO - Author found for 'Camp Midnight': Steven T. Seagle | country: United States | birth_year: 1965
+2026-04-07 20:15:04,206 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/camp-midnight_886/index.html
+2026-04-07 20:15:07,561 - INFO - Trying Wikipedia for 'NANCY MARTIN'...
+2026-04-07 20:15:08,479 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:15:09,653 - INFO - Author found for 'Call the Nurse: True Stories of a Country Nurse on a Scottish Isle': NANCY MARTIN | country: None | birth_year: None
+2026-04-07 20:15:10,777 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
+2026-04-07 20:15:16,171 - INFO - Author found for 'Burning': Jack London | country: United States | birth_year: 1876
+2026-04-07 20:15:17,352 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/burning_884/index.html
+2026-04-07 20:15:21,926 - INFO - Author found for 'Bossypants': Tina Fey | country: United States | birth_year: 1970
+2026-04-07 20:15:23,125 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/bossypants_883/index.html
+2026-04-07 20:15:27,729 - INFO - Author found for 'Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))': Kelly  Sue DeConnick | country: United States | birth_year: 1970
+2026-04-07 20:15:32,406 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html
+2026-04-07 20:15:36,894 - INFO - Author found for 'Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)': Michael Dante DiMartino | country: United States | birth_year: 1974
+2026-04-07 20:15:39,141 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+2026-04-07 20:15:41,618 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-7.html
+2026-04-07 20:15:44,009 - INFO - Trying Wikipedia for 'Brian Christian'...
+2026-04-07 20:15:44,787 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2011}
+2026-04-07 20:15:44,787 - INFO - Wikipedia used for 'Brian Christian' \u2192 {'country': 'United States', 'birth_year': 2011}
+2026-04-07 20:15:46,001 - INFO - Author found for 'Algorithms to Live By: The Computer Science of Human Decisions': Brian Christian | country: United States | birth_year: 1984
+2026-04-07 20:15:47,180 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html
+2026-04-07 20:15:49,478 - INFO - Author found for 'A World of Flavor: Your Gluten Free Passport': None | country: None | birth_year: None
+2026-04-07 20:15:50,614 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-world-of-flavor-your-gluten-free-passport_879/index.html
+2026-04-07 20:15:53,971 - INFO - Trying Wikipedia for 'Christine Hale'...
+2026-04-07 20:15:54,917 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:15:56,151 - INFO - Author found for 'A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations': Christine Hale | country: None | birth_year: None
+2026-04-07 20:15:57,295 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
+2026-04-07 20:16:01,171 - INFO - Trying Wikipedia for 'Julie McElwain'...
+2026-04-07 20:16:02,537 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:16:03,697 - INFO - Author found for 'A Murder in Time': Julie McElwain | country: None | birth_year: None
+2026-04-07 20:16:04,830 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html
+2026-04-07 20:16:08,206 - INFO - Trying Wikipedia for 'John H. Beauvais'...
+2026-04-07 20:16:09,185 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:16:10,372 - INFO - Author found for 'A Flight of Arrows (The Pathfinders #2)': John H. Beauvais | country: None | birth_year: None
+2026-04-07 20:16:11,550 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html
+2026-04-07 20:16:14,880 - INFO - Trying Wikipedia for 'Samantha Mabry'...
+2026-04-07 20:16:15,830 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:16:17,047 - INFO - Author found for 'A Fierce and Subtle Poison': Samantha Mabry | country: None | birth_year: None
+2026-04-07 20:16:18,197 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-fierce-and-subtle-poison_875/index.html
+2026-04-07 20:16:21,556 - INFO - Trying Wikipedia for 'Sarah J. Maas'...
+2026-04-07 20:16:22,185 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:16:22,185 - INFO - Wikipedia used for 'Sarah J. Maas' \u2192 {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:16:23,607 - INFO - Author found for 'A Court of Thorns and Roses (A Court of Thorns and Roses #1)': Sarah J. Maas | country: United States | birth_year: 1986
+2026-04-07 20:16:24,717 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html
+2026-04-07 20:16:27,110 - ERROR - HTTP error fetching author for '(Un)Qualified: How God Uses Broken People to Do Big Things': 500 Server Error: Internal Server Error for url: https://openlibrary.org/search.json?title=&limit=1
+2026-04-07 20:16:28,279 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+2026-04-07 20:16:31,675 - INFO - Trying Wikipedia for 'James K. A. Smith'...
+2026-04-07 20:16:32,406 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1970}
+2026-04-07 20:16:32,406 - INFO - Wikipedia used for 'James K. A. Smith' \u2192 {'country': 'United States', 'birth_year': 1970}
+2026-04-07 20:16:33,627 - INFO - Author found for 'You Are What You Love: The Spiritual Power of Habit': James K. A. Smith | country: United States | birth_year: 1970
+2026-04-07 20:16:34,774 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/you-are-what-you-love-the-spiritual-power-of-habit_872/index.html
+2026-04-07 20:16:39,460 - INFO - Author found for 'William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)': Ian Doescher | country: United States | birth_year: 1977
+2026-04-07 20:16:40,568 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html
+2026-04-07 20:16:43,902 - INFO - Trying Wikipedia for 'Molly Prentiss'...
+2026-04-07 20:16:45,019 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:16:46,208 - INFO - Author found for 'Tuesday Nights in 1980': Molly Prentiss | country: None | birth_year: None
+2026-04-07 20:16:47,348 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html
+2026-04-07 20:16:50,679 - INFO - Trying Wikipedia for 'James McDonald'...
+2026-04-07 20:16:51,410 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:16:52,777 - INFO - Author found for 'Tracing Numbers on a Train': James McDonald | country: None | birth_year: None
+2026-04-07 20:16:53,907 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/tracing-numbers-on-a-train_869/index.html
+2026-04-07 20:16:57,409 - INFO - Trying Wikipedia for 'Sarah J. Maas'...
+2026-04-07 20:16:58,063 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:16:58,063 - INFO - Wikipedia used for 'Sarah J. Maas' \u2192 {'country': 'United States', 'birth_year': 2024}
+2026-04-07 20:16:59,713 - INFO - Author found for 'Throne of Glass (Throne of Glass #1)': Sarah J. Maas | country: United States | birth_year: 1986
+2026-04-07 20:17:00,921 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/throne-of-glass-throne-of-glass-1_868/index.html
+2026-04-07 20:17:05,586 - INFO - Trying Wikipedia for 'Brian Kilmeade'...
+2026-04-07 20:17:07,200 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2022}
+2026-04-07 20:17:07,200 - INFO - Wikipedia used for 'Brian Kilmeade' \u2192 {'country': 'United States', 'birth_year': 2022}
+2026-04-07 20:17:08,545 - INFO - Author found for 'Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History': Brian Kilmeade | country: United States | birth_year: 2022
+2026-04-07 20:17:09,835 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html
+2026-04-07 20:17:13,309 - INFO - Trying Wikipedia for 'Jay Asher'...
+2026-04-07 20:17:14,342 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2007}
+2026-04-07 20:17:14,342 - INFO - Wikipedia used for 'Jay Asher' \u2192 {'country': 'United States', 'birth_year': 2007}
+2026-04-07 20:17:15,945 - INFO - Author found for 'Thirteen Reasons Why': Jay Asher | country: United States | birth_year: 1975
+2026-04-07 20:17:17,920 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/thirteen-reasons-why_866/index.html
+2026-04-07 20:17:24,153 - INFO - Trying Wikipedia for 'Jo Ellen Bogart'...
+2026-04-07 20:17:24,989 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
+2026-04-07 20:17:24,989 - INFO - Wikipedia used for 'Jo Ellen Bogart' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 20:17:26,273 - INFO - Author found for 'The White Cat and the Monk: A Retelling of the Poem â\x80\x9cPangur BÃ¡nâ\x80\x9d': Jo Ellen Bogart | country: United States | birth_year: None
+2026-04-07 20:17:27,455 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
+2026-04-07 20:17:32,473 - INFO - Author found for 'The Wedding Dress': Danielle Steel | country: United States | birth_year: 1947
+2026-04-07 20:17:33,701 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html
+2026-04-07 20:17:37,143 - INFO - Trying Wikipedia for 'Emma Straub'...
+2026-04-07 20:17:37,894 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2022}
+2026-04-07 20:17:37,894 - INFO - Wikipedia used for 'Emma Straub' \u2192 {'country': 'United States', 'birth_year': 2022}
+2026-04-07 20:17:40,029 - INFO - Author found for 'The Vacationers': Emma Straub | country: United States | birth_year: 2022
+2026-04-07 20:17:41,290 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-vacationers_863/index.html
+2026-04-07 20:17:46,056 - INFO - Author found for 'The Third Wave: An Entrepreneurâ\x80\x99s Vision of the Future': Alvin Toffler | country: United States | birth_year: 1928
+2026-04-07 20:17:47,217 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
+2026-04-07 20:17:52,009 - INFO - Author found for 'The Stranger': Mark Twain | country: United States | birth_year: 1835
+2026-04-07 20:17:53,213 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-stranger_861/index.html
+2026-04-07 20:17:55,830 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-8.html
+2026-04-07 20:17:58,293 - INFO - Trying Wikipedia for 'Gene Luen Yang'...
+2026-04-07 20:17:59,050 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2012}
+2026-04-07 20:17:59,050 - INFO - Wikipedia used for 'Gene Luen Yang' \u2192 {'country': 'United States', 'birth_year': 2012}
+2026-04-07 20:18:00,376 - INFO - Author found for 'The Shadow Hero (The Shadow Hero)': Gene Luen Yang | country: United States | birth_year: 2012
+2026-04-07 20:18:01,527 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-shadow-hero-the-shadow-hero_860/index.html
+2026-04-07 20:18:06,682 - INFO - Author found for 'The Secret (The Secret #1)': Joseph Conrad | country: United Kingdom | birth_year: 1857
+2026-04-07 20:18:07,806 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-secret-the-secret-1_859/index.html
+2026-04-07 20:18:11,158 - INFO - Trying Wikipedia for 'Manuel Gonzales'...
+2026-04-07 20:18:11,923 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1940}
+2026-04-07 20:18:11,924 - INFO - Wikipedia used for 'Manuel Gonzales' \u2192 {'country': 'United States', 'birth_year': 1940}
+2026-04-07 20:18:13,134 - INFO - Author found for 'The Regional Office Is Under Attack!': Manuel Gonzales | country: United States | birth_year: 1940
+2026-04-07 20:18:14,342 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html
+2026-04-07 20:18:17,713 - INFO - Trying Wikipedia for 'Jon Ronson'...
+2026-04-07 20:18:18,504 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2001}
+2026-04-07 20:18:18,504 - INFO - Wikipedia used for 'Jon Ronson' \u2192 {'country': 'United States', 'birth_year': 2001}
+2026-04-07 20:18:20,038 - INFO - Author found for 'The Psychopath Test: A Journey Through the Madness Industry': Jon Ronson | country: United States | birth_year: 1967
+2026-04-07 20:18:27,469 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-psychopath-test-a-journey-through-the-madness-industry_857/index.html
+2026-04-07 20:18:32,536 - INFO - Trying Wikipedia for 'Graeme Simsion'...
+2026-04-07 20:18:33,321 - INFO - Wikipedia result: {'country': 'Australia', 'birth_year': None}
+2026-04-07 20:18:33,321 - INFO - Wikipedia used for 'Graeme Simsion' \u2192 {'country': 'Australia', 'birth_year': None}
+2026-04-07 20:18:35,361 - INFO - Author found for 'The Project': Graeme Simsion | country: Australia | birth_year: 1956
+2026-04-07 20:18:36,526 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-project_856/index.html
+2026-04-07 20:18:39,967 - INFO - Trying Wikipedia for 'Eckhart Tolle'...
+2026-04-07 20:18:40,671 - INFO - Wikipedia result: {'country': 'Germany', 'birth_year': 1997}
+2026-04-07 20:18:40,671 - INFO - Wikipedia used for 'Eckhart Tolle' \u2192 {'country': 'Germany', 'birth_year': 1997}
+2026-04-07 20:18:41,912 - INFO - Author found for 'The Power of Now: A Guide to Spiritual Enlightenment': Eckhart Tolle | country: Germany | birth_year: 1948
+2026-04-07 20:18:43,055 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html
+2026-04-07 20:18:46,354 - INFO - Trying Wikipedia for 'Worth Books'...
+2026-04-07 20:18:47,476 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:18:48,773 - INFO - Author found for 'The Omnivore's Dilemma: A Natural History of Four Meals': Worth Books | country: None | birth_year: None
+2026-04-07 20:18:50,143 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html
+2026-04-07 20:18:53,433 - INFO - Trying Wikipedia for 'Rosanna Pansino'...
+2026-04-07 20:18:54,654 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2011}
+2026-04-07 20:18:54,654 - INFO - Wikipedia used for 'Rosanna Pansino' \u2192 {'country': 'United States', 'birth_year': 2011}
+2026-04-07 20:18:55,870 - INFO - Author found for 'The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us': Rosanna Pansino | country: United States | birth_year: 1985
+2026-04-07 20:18:57,128 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html
+2026-04-07 20:19:01,789 - INFO - Author found for 'The Murder of Roger Ackroyd (Hercule Poirot #4)': Agatha Christie | country: United States | birth_year: 1890
+2026-04-07 20:19:03,035 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html
+2026-04-07 20:19:06,623 - INFO - Trying Wikipedia for 'Chetan Bhagat'...
+2026-04-07 20:19:07,371 - INFO - Wikipedia result: {'country': 'India', 'birth_year': 2010}
+2026-04-07 20:19:07,371 - INFO - Wikipedia used for 'Chetan Bhagat' \u2192 {'country': 'India', 'birth_year': 2010}
+2026-04-07 20:19:08,667 - INFO - Author found for 'The Mistake (Off-Campus #2)': Chetan Bhagat | country: India | birth_year: 1974
+2026-04-07 20:19:09,902 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-mistake-off-campus-2_851/index.html
+2026-04-07 20:19:13,234 - INFO - Trying Wikipedia for 'Rachel Van Dyken'...
+2026-04-07 20:19:14,906 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:19:16,176 - INFO - Author found for 'The Matchmaker's Playbook (Wingmen Inc. #1)': Rachel Van Dyken | country: None | birth_year: None
+2026-04-07 20:19:17,355 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-matchmakers-playbook-wingmen-inc-1_850/index.html
+2026-04-07 20:19:19,500 - WARNING - No author found for 'The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking'
+2026-04-07 20:19:20,656 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html
+2026-04-07 20:19:24,031 - INFO - Trying Wikipedia for 'Laura Tillman'...
+2026-04-07 20:19:25,005 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:19:26,213 - INFO - Author found for 'The Long Shadow of Small Ghosts: Murder and Memory in an American City': Laura Tillman | country: None | birth_year: None
+2026-04-07 20:19:27,364 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
+2026-04-07 20:19:30,692 - INFO - Trying Wikipedia for 'Khaled Hosseini'...
+2026-04-07 20:19:31,415 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2003}
+2026-04-07 20:19:31,415 - INFO - Wikipedia used for 'Khaled Hosseini' \u2192 {'country': 'United States', 'birth_year': 2003}
+2026-04-07 20:19:32,702 - INFO - Author found for 'The Kite Runner': Khaled Hosseini | country: United States | birth_year: 1965
+2026-04-07 20:19:33,926 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-kite-runner_847/index.html
+2026-04-07 20:19:38,748 - INFO - Author found for 'The House by the Lake': Eleanor Farnes | country: United Kingdom | birth_year: 1906
+2026-04-07 20:19:39,940 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html
+2026-04-07 20:19:43,264 - INFO - Trying Wikipedia for 'Richelle Mead'...
+2026-04-07 20:19:44,002 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1976}
+2026-04-07 20:19:44,002 - INFO - Wikipedia used for 'Richelle Mead' \u2192 {'country': 'United States', 'birth_year': 1976}
+2026-04-07 20:19:45,295 - INFO - Author found for 'The Glittering Court (The Glittering Court #1)': Richelle Mead | country: United States | birth_year: 1976
+2026-04-07 20:19:46,451 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-glittering-court-the-glittering-court-1_845/index.html
+2026-04-07 20:19:50,010 - INFO - Trying Wikipedia for 'Paula Hawkins'...
+2026-04-07 20:19:50,770 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1927}
+2026-04-07 20:19:50,770 - INFO - Wikipedia used for 'Paula Hawkins' \u2192 {'country': 'United Kingdom', 'birth_year': 1927}
+2026-04-07 20:19:51,983 - INFO - Author found for 'The Girl on the Train': Paula Hawkins | country: United Kingdom | birth_year: 1972
+2026-04-07 20:19:53,145 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-girl-on-the-train_844/index.html
+2026-04-07 20:19:57,639 - INFO - Author found for 'The Genius of Birds': Jennifer Ackerman | country: United States | birth_year: 1959
+2026-04-07 20:19:58,807 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-genius-of-birds_843/index.html
+2026-04-07 20:20:02,179 - INFO - Trying Wikipedia for 'j. a. lath'...
+2026-04-07 20:20:03,195 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:20:04,406 - INFO - Author found for 'The Emerald Mystery': j. a. lath | country: None | birth_year: None
+2026-04-07 20:20:05,561 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-emerald-mystery_842/index.html
+2026-04-07 20:20:08,944 - INFO - Trying Wikipedia for 'Shelly Jaronsky'...
+2026-04-07 20:20:09,963 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:20:11,152 - INFO - Author found for 'The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First': Shelly Jaronsky | country: None | birth_year: None
+2026-04-07 20:20:12,328 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html
+2026-04-07 20:20:14,842 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-9.html
+2026-04-07 20:20:17,218 - INFO - Trying Wikipedia for 'Annie Bourke'...
+2026-04-07 20:20:18,126 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:20:19,443 - INFO - Author found for 'The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.': Annie Bourke | country: None | birth_year: None
+2026-04-07 20:20:20,602 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html
+2026-04-07 20:20:25,408 - INFO - Author found for 'The Artist's Way: A Spiritual Path to Higher Creativity': Julia Cameron | country: United States | birth_year: 1948
+2026-04-07 20:20:26,661 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
+2026-04-07 20:20:30,691 - INFO - Trying Wikipedia for '\u5b59\u6b66'...
+2026-04-07 20:20:31,597 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:20:32,872 - INFO - Author found for 'The Art of War': \u5b59\u6b66 | country: None | birth_year: None
+2026-04-07 20:20:34,096 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-art-of-war_838/index.html
+2026-04-07 20:20:37,536 - INFO - Trying Wikipedia for 'Maggie Nelson'...
+2026-04-07 20:20:38,485 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2016}
+2026-04-07 20:20:38,485 - INFO - Wikipedia used for 'Maggie Nelson' \u2192 {'country': 'United States', 'birth_year': 2016}
+2026-04-07 20:20:39,758 - INFO - Author found for 'The Argonauts': Maggie Nelson | country: United States | birth_year: 1973
+2026-04-07 20:20:40,942 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-argonauts_837/index.html
+2026-04-07 20:20:44,362 - INFO - Trying Wikipedia for 'patrick j mcginning'...
+2026-04-07 20:20:45,299 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:20:46,524 - INFO - Author found for 'The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job': patrick j mcginning | country: None | birth_year: None
+2026-04-07 20:20:47,715 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html
+2026-04-07 20:20:51,064 - INFO - Trying Wikipedia for 'Deborah Moore'...
+2026-04-07 20:20:52,008 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1963}
+2026-04-07 20:20:52,008 - INFO - Wikipedia used for 'Deborah Moore' \u2192 {'country': 'United Kingdom', 'birth_year': 1963}
+2026-04-07 20:20:53,260 - INFO - Author found for 'Suddenly in Love (Lake Haven #1)': Deborah Moore | country: United Kingdom | birth_year: 1963
+2026-04-07 20:20:54,447 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/suddenly-in-love-lake-haven-1_835/index.html
+2026-04-07 20:20:57,894 - INFO - Trying Wikipedia for 'Barbie Bohrman'...
+2026-04-07 20:20:59,838 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
+2026-04-07 20:21:01,096 - INFO - Author found for 'Something More Than This': Barbie Bohrman | country: None | birth_year: None
+2026-04-07 20:21:02,213 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/something-more-than-this_834/index.html
+2026-04-07 20:21:05,560 - INFO - Trying Wikipedia for 'Will McIntosh'...
+2026-04-07 20:21:06,327 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1962}
+2026-04-07 20:21:06,327 - INFO - Wikipedia used for 'Will McIntosh' \u2192 {'country': 'United States', 'birth_year': 1962}
+2026-04-07 20:21:07,614 - INFO - Author found for 'Soft Apocalypse': Will McIntosh | country: United States | birth_year: 1962
+2026-04-07 20:21:08,768 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html
+2026-04-07 20:21:12,222 - INFO - Trying Wikipedia for 'Jon Ronson'...
+2026-04-07 20:21:12,840 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2001}
+2026-04-07 20:21:12,840 - INFO - Wikipedia used for 'Jon Ronson' \u2192 {'country': 'United States', 'birth_year': 2001}
+2026-04-07 20:21:14,130 - INFO - Author found for 'So You've Been Publicly Shamed': Jon Ronson | country: United States | birth_year: 1967
+2026-04-07 20:21:15,294 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/so-youve-been-publicly-shamed_832/index.html
+2026-04-07 20:21:18,725 - INFO - Trying Wikipedia for 'Phil Knight'...
+2026-04-07 20:21:19,659 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2025}
+2026-04-07 20:21:19,659 - INFO - Wikipedia used for 'Phil Knight' \u2192 {'country': 'United States', 'birth_year': 2025}
