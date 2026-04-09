@@ -115,7 +115,7 @@
 2026-04-07 21:01:36,618 - INFO - Trying Wikipedia for 'Andrew Dickson'...
 2026-04-07 21:01:37,397 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': 1988}
 2026-04-07 21:01:37,397 - INFO - Wikipedia used for 'Andrew Dickson' \u2192 {'country': 'United Kingdom', 'birth_year': 1988}
-2026-04-07 21:01:38,923 - INFO - Author found for 'Worlds Elsewhere: Journeys Around Shakespeareâ\x80\x99s Globe': Andrew Dickson | country: United Kingdom | birth_year: 1988
+2026-04-07 21:01:38,923 - INFO - Author found for 'Worlds Elsewhere: Journeys Around Shakespeareï¿½\x80\x99s Globe': Andrew Dickson | country: United Kingdom | birth_year: 1988
 2026-04-07 21:01:40,203 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
 2026-04-07 21:01:43,897 - INFO - Trying Wikipedia for 'Banksy'...
 2026-04-07 21:01:44,650 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
@@ -545,7 +545,7 @@
 2026-04-07 21:15:09,761 - INFO - Trying Wikipedia for 'Jo Ellen Bogart'...
 2026-04-07 21:15:10,491 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
 2026-04-07 21:15:10,492 - INFO - Wikipedia used for 'Jo Ellen Bogart' \u2192 {'country': 'United States', 'birth_year': None}
-2026-04-07 21:15:11,882 - INFO - Author found for 'The White Cat and the Monk: A Retelling of the Poem â\x80\x9cPangur BÃ¡nâ\x80\x9d': Jo Ellen Bogart | country: United States | birth_year: None
+2026-04-07 21:15:11,882 - INFO - Author found for 'The White Cat and the Monk: A Retelling of the Poem ï¿½\x80\x9cPangur BÃ¡nï¿½\x80\x9d': Jo Ellen Bogart | country: United States | birth_year: None
 2026-04-07 21:15:13,146 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html
 2026-04-07 21:15:18,526 - INFO - Author found for 'The Wedding Dress': Danielle Steel | country: United States | birth_year: 1947
 2026-04-07 21:15:19,760 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-wedding-dress_864/index.html
@@ -554,7 +554,7 @@
 2026-04-07 21:15:23,950 - INFO - Wikipedia used for 'Emma Straub' \u2192 {'country': 'United States', 'birth_year': 2022}
 2026-04-07 21:15:25,303 - INFO - Author found for 'The Vacationers': Emma Straub | country: United States | birth_year: 2022
 2026-04-07 21:15:26,508 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-vacationers_863/index.html
-2026-04-07 21:15:31,443 - INFO - Author found for 'The Third Wave: An Entrepreneurâ\x80\x99s Vision of the Future': Alvin Toffler | country: United States | birth_year: 1928
+2026-04-07 21:15:31,443 - INFO - Author found for 'The Third Wave: An Entrepreneurï¿½\x80\x99s Vision of the Future': Alvin Toffler | country: United States | birth_year: 1928
 2026-04-07 21:15:35,853 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html
 2026-04-07 21:15:42,824 - INFO - Author found for 'The Stranger': Mark Twain | country: United States | birth_year: 1835
 2026-04-07 21:15:44,102 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-stranger_861/index.html
@@ -722,7 +722,7 @@
 2026-04-07 21:20:50,191 - INFO - Wikipedia used for 'Aziz Ansari' \u2192 {'country': 'United States', 'birth_year': 2009}
 2026-04-07 21:20:51,438 - INFO - Author found for 'Modern Romance': Aziz Ansari | country: United States | birth_year: 1983
 2026-04-07 21:20:56,033 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/modern-romance_820/index.html
-2026-04-07 21:20:58,285 - WARNING - No author found for 'Miss Peregrineâ\x80\x99s Home for Peculiar Children (Miss Peregrineâ\x80\x99s Peculiar Children #1)'
+2026-04-07 21:20:58,285 - WARNING - No author found for 'Miss Peregrineï¿½\x80\x99s Home for Peculiar Children (Miss Peregrineï¿½\x80\x99s Peculiar Children #1)'
 2026-04-07 21:20:59,481 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html
 2026-04-07 21:21:04,525 - INFO - Author found for 'Louisa: The Extraordinary Life of Mrs. Adams': Louisa May Alcott | country: Germany | birth_year: 1832
 2026-04-07 21:21:05,765 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/louisa-the-extraordinary-life-of-mrs-adams_818/index.html
@@ -734,7 +734,7 @@
 2026-04-07 21:21:17,238 - INFO - Trying Wikipedia for 'Ransom Riggs'...
 2026-04-07 21:21:17,949 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1979}
 2026-04-07 21:21:17,950 - INFO - Wikipedia used for 'Ransom Riggs' \u2192 {'country': 'United States', 'birth_year': 1979}
-2026-04-07 21:21:19,380 - INFO - Author found for 'Library of Souls (Miss Peregrineâ\x80\x99s Peculiar Children #3)': Ransom Riggs | country: United States | birth_year: 1979
+2026-04-07 21:21:19,380 - INFO - Author found for 'Library of Souls (Miss Peregrineï¿½\x80\x99s Peculiar Children #3)': Ransom Riggs | country: United States | birth_year: 1979
 2026-04-07 21:21:20,606 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/library-of-souls-miss-peregrines-peculiar-children-3_816/index.html
 2026-04-07 21:21:25,844 - WARNING - No author found for 'Large Print Heart of the Pride'
 2026-04-07 21:21:27,067 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/large-print-heart-of-the-pride_815/index.html
@@ -745,11 +745,11 @@
 2026-04-07 21:21:37,970 - INFO - Trying Wikipedia for 'Ransom Riggs'...
 2026-04-07 21:21:38,688 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1979}
 2026-04-07 21:21:38,689 - INFO - Wikipedia used for 'Ransom Riggs' \u2192 {'country': 'United States', 'birth_year': 1979}
-2026-04-07 21:21:39,982 - INFO - Author found for 'Hollow City (Miss Peregrineâ\x80\x99s Peculiar Children #2)': Ransom Riggs | country: United States | birth_year: 1979
+2026-04-07 21:21:39,982 - INFO - Author found for 'Hollow City (Miss Peregrineï¿½\x80\x99s Peculiar Children #2)': Ransom Riggs | country: United States | birth_year: 1979
 2026-04-07 21:21:41,236 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/hollow-city-miss-peregrines-peculiar-children-2_813/index.html
 2026-04-07 21:21:46,261 - INFO - Author found for 'Grumbles': Roger Hargreaves | country: United Kingdom | birth_year: 1935
 2026-04-07 21:21:47,489 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/grumbles_812/index.html
-2026-04-07 21:21:49,706 - WARNING - No author found for 'Full Moon over Noahâ\x80\x99s Ark: An Odyssey to Mount Ararat and Beyond'
+2026-04-07 21:21:49,706 - WARNING - No author found for 'Full Moon over Noahï¿½\x80\x99s Ark: An Odyssey to Mount Ararat and Beyond'
 2026-04-07 21:21:50,889 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html
 2026-04-07 21:21:54,881 - INFO - Trying Wikipedia for 'Richelle Mead'...
 2026-04-07 21:21:55,571 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1976}
@@ -790,10 +790,10 @@
 2026-04-07 21:23:13,092 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
 2026-04-07 21:23:14,387 - INFO - Author found for 'Dark Notes': Pam Godwin` | country: None | birth_year: None
 2026-04-07 21:23:15,618 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/dark-notes_800/index.html
-2026-04-07 21:23:20,457 - INFO - Trying Wikipedia for 'Brené Brown'...
+2026-04-07 21:23:20,457 - INFO - Trying Wikipedia for 'Brenï¿½ Brown'...
 2026-04-07 21:23:21,192 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
-2026-04-07 21:23:21,193 - INFO - Wikipedia used for 'Brené Brown' \u2192 {'country': 'United States', 'birth_year': None}
-2026-04-07 21:23:22,823 - INFO - Author found for 'Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead': Brené Brown | country: United States | birth_year: 1965
+2026-04-07 21:23:21,193 - INFO - Wikipedia used for 'Brenï¿½ Brown' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 21:23:22,823 - INFO - Author found for 'Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead': Brenï¿½ Brown | country: United States | birth_year: 1965
 2026-04-07 21:23:27,611 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html
 2026-04-07 21:23:31,623 - INFO - Trying Wikipedia for 'Christina Dodd'...
 2026-04-07 21:23:32,290 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
@@ -916,7 +916,7 @@
 2026-04-07 21:27:46,754 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-wedding-pact-the-omalleys-2_767/index.html
 2026-04-07 21:27:52,807 - INFO - Author found for 'The Time Keeper': Mitch Albom | country: United States | birth_year: 1958
 2026-04-07 21:27:54,095 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-time-keeper_766/index.html
-2026-04-07 21:27:59,269 - INFO - Author found for 'The Testament of Mary': Colm Tóibín | country: Ireland | birth_year: 1955
+2026-04-07 21:27:59,269 - INFO - Author found for 'The Testament of Mary': Colm Tï¿½ibï¿½n | country: Ireland | birth_year: 1955
 2026-04-07 21:28:06,331 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html
 2026-04-07 21:28:09,849 - INFO - Trying Wikipedia for 'Roshani Chokshi'...
 2026-04-07 21:28:10,732 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
@@ -999,7 +999,7 @@
 2026-04-07 21:30:33,535 - INFO - Trying Wikipedia for 'Joshua Hammer'...
 2026-04-07 21:30:34,339 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 2016}
 2026-04-07 21:30:34,339 - INFO - Wikipedia used for 'Joshua Hammer' \u2192 {'country': 'United States', 'birth_year': 2016}
-2026-04-07 21:30:35,637 - INFO - Author found for 'The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâ\x80\x99s Most Precious Manuscripts': Joshua Hammer | country: United States | birth_year: 1957
+2026-04-07 21:30:35,637 - INFO - Author found for 'The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldï¿½\x80\x99s Most Precious Manuscripts': Joshua Hammer | country: United States | birth_year: 1957
 2026-04-07 21:30:36,871 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html
 2026-04-07 21:30:40,752 - INFO - Trying Wikipedia for 'Steve Berry'...
 2026-04-07 21:30:41,699 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
@@ -1315,10 +1315,10 @@
 2026-04-07 21:41:08,570 - INFO - Wikipedia used for 'Shaun Simon' \u2192 {'country': 'United States', 'birth_year': None}
 2026-04-07 21:41:09,838 - INFO - Author found for 'Art Ops Vol. 1': Shaun Simon | country: United States | birth_year: None
 2026-04-07 21:41:11,002 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/art-ops-vol-1_664/index.html
-2026-04-07 21:41:14,581 - INFO - Trying Wikipedia for 'Benjamin Alire Sáenz'...
+2026-04-07 21:41:14,581 - INFO - Trying Wikipedia for 'Benjamin Alire Sï¿½enz'...
 2026-04-07 21:41:15,362 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1954}
-2026-04-07 21:41:15,362 - INFO - Wikipedia used for 'Benjamin Alire Sáenz' \u2192 {'country': 'United States', 'birth_year': 1954}
-2026-04-07 21:41:16,676 - INFO - Author found for 'Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)': Benjamin Alire Sáenz | country: United States | birth_year: 1954
+2026-04-07 21:41:15,362 - INFO - Wikipedia used for 'Benjamin Alire Sï¿½enz' \u2192 {'country': 'United States', 'birth_year': 1954}
+2026-04-07 21:41:16,676 - INFO - Author found for 'Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)': Benjamin Alire Sï¿½enz | country: United States | birth_year: 1954
 2026-04-07 21:41:21,823 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html
 2026-04-07 21:41:25,198 - INFO - Trying Wikipedia for 'Karen Kingsbury'...
 2026-04-07 21:41:25,965 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': 1963}
@@ -1809,10 +1809,10 @@
 2026-04-07 21:58:11,410 - INFO - Wikipedia used for 'Victoria Jamieson' \u2192 {'country': 'United States', 'birth_year': None}
 2026-04-07 21:58:12,720 - INFO - Author found for 'Roller Girl': Victoria Jamieson | country: United States | birth_year: None
 2026-04-07 21:58:13,971 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/roller-girl_540/index.html
-2026-04-07 21:58:17,473 - INFO - Trying Wikipedia for 'Brené Brown'...
+2026-04-07 21:58:17,473 - INFO - Trying Wikipedia for 'Brenï¿½ Brown'...
 2026-04-07 21:58:18,116 - INFO - Wikipedia result: {'country': 'United States', 'birth_year': None}
-2026-04-07 21:58:18,117 - INFO - Wikipedia used for 'Brené Brown' \u2192 {'country': 'United States', 'birth_year': None}
-2026-04-07 21:58:19,462 - INFO - Author found for 'Rising Strong': Brené Brown | country: United States | birth_year: 1965
+2026-04-07 21:58:18,117 - INFO - Wikipedia used for 'Brenï¿½ Brown' \u2192 {'country': 'United States', 'birth_year': None}
+2026-04-07 21:58:19,462 - INFO - Author found for 'Rising Strong': Brenï¿½ Brown | country: United States | birth_year: 1965
 2026-04-07 21:58:20,774 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/rising-strong_539/index.html
 2026-04-07 21:58:24,731 - INFO - Trying Wikipedia for 'George R. Riffert'...
 2026-04-07 21:58:26,164 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
@@ -1854,7 +1854,7 @@
 2026-04-07 21:59:50,749 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
 2026-04-07 21:59:53,816 - INFO - Author found for 'Kill 'Em and Leave: Searching for James Brown and the American Soul': James Mcbride | country: None | birth_year: None
 2026-04-07 21:59:55,086 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html
-2026-04-07 22:00:04,072 - INFO - Author found for 'Kierkegaard: A Christian Missionary to Christians': Søren Kierkegaard | country: Denmark | birth_year: 1813
+2026-04-07 22:00:04,072 - INFO - Author found for 'Kierkegaard: A Christian Missionary to Christians': Sï¿½ren Kierkegaard | country: Denmark | birth_year: 1813
 2026-04-07 22:00:05,427 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/kierkegaard-a-christian-missionary-to-christians_527/index.html
 2026-04-07 22:00:09,361 - INFO - Trying Wikipedia for 'Danielle Shapiro'...
 2026-04-07 22:00:11,015 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
@@ -2772,7 +2772,7 @@
 2026-04-07 22:33:47,249 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-silkworm-cormoran-strike-2_280/index.html
 2026-04-07 22:33:52,274 - INFO - Author found for 'The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)': Neil Gaiman | country: United States | birth_year: 1960
 2026-04-07 22:33:53,546 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html
-2026-04-07 22:33:58,870 - INFO - Author found for 'The Rose & the Dagger (The Wrath and the Dawn #2)': Renée Ahdieh | country: United States | birth_year: 1983
+2026-04-07 22:33:58,870 - INFO - Author found for 'The Rose & the Dagger (The Wrath and the Dawn #2)': Renï¿½e Ahdieh | country: United States | birth_year: 1983
 2026-04-07 22:34:00,150 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html
 2026-04-07 22:34:05,678 - INFO - Author found for 'The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)': Bill Bryson | country: United States | birth_year: 1951
 2026-04-07 22:34:06,908 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html
@@ -3546,10 +3546,10 @@
 2026-04-07 23:02:54,241 - INFO - Author found for 'The Communist Manifesto': David Boyle | country: United Kingdom | birth_year: 1958
 2026-04-07 23:02:55,428 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-communist-manifesto_61/index.html
 2026-04-07 23:02:57,946 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/page-48.html
-2026-04-07 23:03:00,458 - INFO - Trying Wikipedia for 'Juan Mascaró'...
+2026-04-07 23:03:00,458 - INFO - Trying Wikipedia for 'Juan Mascarï¿½'...
 2026-04-07 23:03:01,198 - INFO - Wikipedia result: {'country': 'United Kingdom', 'birth_year': None}
-2026-04-07 23:03:01,198 - INFO - Wikipedia used for 'Juan Mascaró' \u2192 {'country': 'United Kingdom', 'birth_year': None}
-2026-04-07 23:03:02,469 - INFO - Author found for 'The Bhagavad Gita': Juan Mascaró | country: United Kingdom | birth_year: None
+2026-04-07 23:03:01,198 - INFO - Wikipedia used for 'Juan Mascarï¿½' \u2192 {'country': 'United Kingdom', 'birth_year': None}
+2026-04-07 23:03:02,469 - INFO - Author found for 'The Bhagavad Gita': Juan Mascarï¿½ | country: United Kingdom | birth_year: None
 2026-04-07 23:03:03,647 - INFO - Fetched page successfully: https://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html
 2026-04-07 23:03:07,051 - INFO - Trying Wikipedia for 'Jane Lotter'...
 2026-04-07 23:03:07,943 - INFO - Wikipedia result: {'country': None, 'birth_year': None}
